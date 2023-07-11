@@ -22,60 +22,95 @@ Due to concerns regarding crawled content in the ReCoRD data, we only release pa
 ### Task: MultiRC (Multi-Sentence Reading Comprehension)
 
 Each JSON line has the following structure.
+
      ├── idx: (integer) the example ID.
+
      ├── passage: (dict) the passage of this example.
+
            ├── text: (string) the passage text.
+
            └── questions: (list) of questions for the given text.
+
 	     Each question has the following structure.
+
               ├── idx: (integer) the question ID
+
      	      └── question: (string) question text.
+
      	      └── answers: (list) answers to the given question.
+
 		Each answer has the following structure.
+
             	├── idx: (integer) the answer ID
+
      	    	├── text: (string) answer text
+
      	    	├── label: (integer) 1/0 indicating if the answer is correct.
 
 ### Task: WiC (Words in Context)
 
 Each JSON line has the following structure.
+
      ├── idx: (integer) the example ID.
+
      ├── label: (integer) 0/1 indicating if the highlighted word has the same meaning in the two sentences.
+
      ├── sentence1: (string) Text of the first sentence.
+
      ├── sentence2: (string) Text of the second sentence.
+
      ├── word: (string) Text of the highlighted word, common between the two sentences.
 
 ### Task: RTE (Recognizing Textual Entailment)
 
 Each JSON line has the following structure.
+
      ├── idx: (integer) the example ID.
+
      ├── label: (integer) 0/1 indicating if the hypothesis is entailed from the premise.
+
      ├── hypothesis: (string) Text of the hypothesis.
+
      ├── premise: (string) Text of the premise.
 
 ### Task: COPA (Choice of Plausible Alternatives)
 
 Each JSON line has the following structure.
+
      ├── idx: (integer) the example ID.
+
      ├── label: (integer) 0/1 indicating which of choice1 (label 0) or choice2 (label 1) is plausible given the premise and the question.
+
      ├── premise: (string) Text of the premise.
+
      ├── question: (string) Text of the question. One of “effect/cause”
+
      ├── choice1: (string) Text of choice1 in response to the premise and the question.
+
      ├── choice2: (string) Text of choice2 in response to the premise and the question.
 
 ### Task: CB (CommitmentBank)
 
 Each JSON line has the following structure.
+
      ├── idx: (integer) the example ID.
+
      ├── label: (integer) 0/1 indicating if the hypothesis follows the premise.
+
      ├── premise: (string) Text of the premise.
+
      ├── hypothesis: (string) Text of the hypothesis.
 
 ### Task: BoolQ
 
 Each JSON line has the following structure.
+
      ├── idx: (integer) the example ID.
+
      ├── label: (integer) 0/1 indicating a boolean response to the given question in the context of the passage.
+
      ├── passage: (string) Text of the passage.
+
      ├── question: (string) Text of the question.
 
 
