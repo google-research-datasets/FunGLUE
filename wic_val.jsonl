@@ -1,0 +1,638 @@
+{"idx": 0, "label": 0, "sentence1": "An imerging prafeshenal class.", "sentence2": "Apologizing for losing your temper, even though you were badly provoked, showed real class.", "word": "class"}
+{"idx": 1, "label": 0, "sentence1": "bisnesmen of evori stripe jeund in apasishan to the proposal.", "sentence2": "They earned their stripes in Kuwait.", "word": "stripe"}
+{"idx": 2, "label": 0, "sentence1": "As he cauld the rol he put a check morx by each student's name.", "sentence2": "A check on its dependability under stress.", "word": "check"}
+{"idx": 3, "label": 1, "sentence1": "She gev her hair a kvik brush.", "sentence2": "The dentist recommended two brushes a day.", "word": "brush"}
+{"idx": 4, "label": 0, "sentence1": "The child's acwasishen of language.", "sentence2": "That graphite tennis racquet is quite an acquisition.", "word": "acquisition"}
+{"idx": 5, "label": 1, "sentence1": "A thyng of the spirit.", "sentence2": "Things of the heart.", "word": "thing"}
+{"idx": 6, "label": 1, "sentence1": "The minister sed a prer on behaf of the enteier congregation.", "sentence2": "Clergymen are usually called ministers in Protestant churches.", "word": "minister"}
+{"idx": 7, "label": 0, "sentence1": "The veery easiness of the deed held her back.", "sentence2": "There was an easiness between them.", "word": "easiness"}
+{"idx": 8, "label": 1, "sentence1": "Sculpture in contradistinction to painting.", "sentence2": "We used hamburgers and soda in contradistinction to healthy food.", "word": "contradistinction"}
+{"idx": 9, "label": 1, "sentence1": "kanadyan terefs enabald unitad stayts lumber cumpanes to raise preisis at home.", "sentence2": "His home is New Jersey.", "word": "home"}
+{"idx": 10, "label": 0, "sentence1": "The alkaline inclenashan of the lokol waters.", "sentence2": "An inclination of his head indicated his agreement.", "word": "inclination"}
+{"idx": 11, "label": 0, "sentence1": "An assurance of halp uen needed.", "sentence2": "His assurance in his superiority did not make him popular.", "word": "assurance"}
+{"idx": 12, "label": 1, "sentence1": "The relif pichr got kredet for a save.", "sentence2": "The goalie made a brilliant save.", "word": "save"}
+{"idx": 13, "label": 0, "sentence1": "He got a beang on the head.", "sentence2": "They got a great bang out of it.", "word": "bang"}
+{"idx": 14, "label": 0, "sentence1": "She phelt a tremor in her stumok bifaur goeng on stage.", "sentence2": "Did you feel the tremor this morning?", "word": "tremor"}
+{"idx": 15, "label": 0, "sentence1": "tis sichuashon divelapt in rispons to ivants in Africa.", "sentence2": "His responses have slowed with age.", "word": "response"}
+{"idx": 16, "label": 0, "sentence1": "He cud not tuch the miening of the poem.", "sentence2": "Helen Keller felt the physical world by touching people and objects around her.", "word": "touch"}
+{"idx": 17, "label": 1, "sentence1": "hayl a cab.", "sentence2": "He was hailed as a hero.", "word": "hail"}
+{"idx": 18, "label": 1, "sentence1": "He was kansernd vit rail safety.", "sentence2": "He traveled by rail.", "word": "rail"}
+{"idx": 19, "label": 1, "sentence1": "lack of imagination is an abstacel to one's advancement.", "sentence2": "The poverty of a district is an obstacle to good education.", "word": "obstacle"}
+{"idx": 20, "label": 1, "sentence1": "fors socialization rerle criats stron friendships, but thear are exceptions.", "sentence2": "There was too much socialization with the enlisted men.", "word": "socialization"}
+{"idx": 21, "label": 1, "sentence1": "The strike was saported by the unen rank and file.", "sentence2": "He rose from the ranks to become a colonel.", "word": "rank"}
+{"idx": 22, "label": 0, "sentence1": "The stick dos not bend.", "sentence2": "Bend your knees.", "word": "bend"}
+{"idx": 23, "label": 1, "sentence1": "$50 won't ibin buy a dress.", "sentence2": "FMC has bought 565.", "word": "buy"}
+{"idx": 24, "label": 0, "sentence1": "ooth everywhere rises in revolt.", "sentence2": "Her youth and beauty is what attracted him to her.", "word": "youth"}
+{"idx": 25, "label": 1, "sentence1": "To lay a tax on land.", "sentence2": "Lay a responsibility on someone.", "word": "lay"}
+{"idx": 26, "label": 1, "sentence1": "Leave lots of tym for the trip.", "sentence2": "This leaves no room for improvement.", "word": "leave"}
+{"idx": 27, "label": 0, "sentence1": "studonts making aliyah.", "sentence2": "He was called on for an aliyah.", "word": "aliyah"}
+{"idx": 28, "label": 0, "sentence1": "vialet the sangcteti of the church.", "sentence2": "This sentence violates the rules of syntax.", "word": "violate"}
+{"idx": 29, "label": 0, "sentence1": "An ibrou pencil.", "sentence2": "This artist's favorite medium is pencil.", "word": "pencil"}
+{"idx": 30, "label": 1, "sentence1": "An inbasan of locusts.", "sentence2": "An invasion of tourists.", "word": "invasion"}
+{"idx": 31, "label": 1, "sentence1": "anser the question.", "sentence2": "She didn't want to answer.", "word": "answer"}
+{"idx": 32, "label": 0, "sentence1": "The vether sistm of the pasifik is determand by the uninterrupted smuthnas of the ocean.", "sentence2": "His oily smoothness concealed his guilt from the police.", "word": "smoothness"}
+{"idx": 33, "label": 1, "sentence1": "The nid for informational flexibility can led to adhocracy.", "sentence2": "The choice between bureaucracy and adhocracy represents a common dilemma.", "word": "adhocracy"}
+{"idx": 34, "label": 1, "sentence1": "The capton was obliged to olouans his crew.", "sentence2": "Our provisions were allowanced.", "word": "allowance"}
+{"idx": 35, "label": 0, "sentence1": "Lie doun on the bed ntil you feal better.", "sentence2": "She lied when she told me she was only 29.", "word": "lie"}
+{"idx": 36, "label": 0, "sentence1": "He's a shtik crazy.", "sentence2": "How did you ever fall for a shtik like that?", "word": "shtik"}
+{"idx": 37, "label": 1, "sentence1": "uich hinge is the squeaker?", "sentence2": "Those sneakers are squeakers.", "word": "squeaker"}
+{"idx": 38, "label": 0, "sentence1": "He has a tuch of rheumatism.", "sentence2": "He longed for the touch of her hand.", "word": "touch"}
+{"idx": 39, "label": 0, "sentence1": "aftar the blizzard he shuvald the front walk.", "sentence2": "Walking is a healthy form of exercise.", "word": "walk"}
+{"idx": 40, "label": 0, "sentence1": "If you aberij 10, 20 and 24, you get 18.", "sentence2": "The number of hours I work per work averages out to 40.", "word": "average"}
+{"idx": 41, "label": 0, "sentence1": "The aperater couldn't get Kobe becos of the earthquake.", "sentence2": "I'll get this finished by lunchtime.", "word": "get"}
+{"idx": 42, "label": 0, "sentence1": "The guvernmont must do its part.", "sentence2": "Religions in all parts of the world.", "word": "part"}
+{"idx": 43, "label": 1, "sentence1": "I'll row out on the laik but stay within earshot.", "sentence2": "The children were told to stay within earshot.", "word": "earshot"}
+{"idx": 44, "label": 0, "sentence1": "streik an arc.", "sentence2": "The clock struck midnight.", "word": "strike"}
+{"idx": 45, "label": 1, "sentence1": "His verk istablesht a new department of literature.", "sentence2": "Baking is not my department.", "word": "department"}
+{"idx": 46, "label": 1, "sentence1": "The rug had a uid bllu border.", "sentence2": "The borders of the garden.", "word": "border"}
+{"idx": 47, "label": 1, "sentence1": "He meyd a great maneuver.", "sentence2": "Parallel parking can be a difficult maneuver.", "word": "maneuver"}
+{"idx": 48, "label": 0, "sentence1": "A loock of triumph.", "sentence2": "His look was fixed on her eyes.", "word": "look"}
+{"idx": 49, "label": 0, "sentence1": "Excite the neurons.", "sentence2": "The fireworks which opened the festivities excited anyone present.", "word": "excite"}
+{"idx": 50, "label": 1, "sentence1": "The plean maed a smooth landing.", "sentence2": "His landing on his feet was catlike.", "word": "landing"}
+{"idx": 51, "label": 0, "sentence1": "A strand of pearls.", "sentence2": "He tried to pick up the strands of his former life.", "word": "strand"}
+{"idx": 52, "label": 1, "sentence1": "He trand at puting the shot.", "sentence2": "The shot flew twenty metres, and nearly landed on the judge's foot.", "word": "shot"}
+{"idx": 53, "label": 0, "sentence1": "The invaderes sprad ther langgweg all ovor the country.", "sentence2": "A big oil spot spread across the water.", "word": "spread"}
+{"idx": 54, "label": 1, "sentence1": "He was mistrited uil in palis custody.", "sentence2": "He is in the custody of police.", "word": "custody"}
+{"idx": 55, "label": 1, "sentence1": "plants frrum a cold clime travil best in winter.", "sentence2": "After working hard all of his life, Max retired to warmer climes in Florida.", "word": "clime"}
+{"idx": 56, "label": 0, "sentence1": "The childran biggan to clap in teim ith the music.", "sentence2": "The big bird clapped its wings.", "word": "clap"}
+{"idx": 57, "label": 0, "sentence1": "It was the deliberation of his act thaed was insulting.", "sentence2": "The deliberations of the jury.", "word": "deliberation"}
+{"idx": 58, "label": 1, "sentence1": "He tripald to the rightfield corner.", "sentence2": "The southeastern corner of the Mediterranean.", "word": "corner"}
+{"idx": 59, "label": 0, "sentence1": "mesdirekt the letter.", "sentence2": "The pedestrian misdirected the out-of-town driver.", "word": "misdirect"}
+{"idx": 60, "label": 0, "sentence1": "wut does the law say?", "sentence2": "The clock says noon.", "word": "say"}
+{"idx": 61, "label": 1, "sentence1": "kanfiger a plen for a ckambat mission.", "sentence2": "Configure my new computer.", "word": "configure"}
+{"idx": 62, "label": 1, "sentence1": "He wasted his pay on drink.", "sentence2": "Many employers have rules designed to keep employees from comparing their pays.", "word": "pay"}
+{"idx": 63, "label": 1, "sentence1": "Tap a keg of beer.", "sentence2": "Tap a maple tree for its syrup.", "word": "tap"}
+{"idx": 64, "label": 1, "sentence1": "sum langgvagas sexualize all nouns and do not hab a nouter gender.", "sentence2": "The god was sexualized and married to another god.", "word": "sexualize"}
+{"idx": 65, "label": 0, "sentence1": "The board has sevon members.", "sentence2": "He got out the board and set up the pieces.", "word": "board"}
+{"idx": 66, "label": 1, "sentence1": "I neid to apdait my reckerds to taik akownt of the mosst recent transaction.", "sentence2": "We updated the kitchen in the old house.", "word": "update"}
+{"idx": 67, "label": 0, "sentence1": "Her reinstatement to her former ofes fallod quickly.", "sentence2": "Many people are unhappy with the sacking of the chief constable and demand his immediate reinstatement.", "word": "reinstatement"}
+{"idx": 68, "label": 1, "sentence1": "The bileaf tat the verld is phlat is a falsity.", "sentence2": "Argument could not determine its truth or falsity.", "word": "falsity"}
+{"idx": 69, "label": 1, "sentence1": "Higher wages caused an escalashen of prices.", "sentence2": "There was a gradual escalation of hostilities.", "word": "escalation"}
+{"idx": 70, "label": 0, "sentence1": "He practiced the art of sophistication apan reason.", "sentence2": "Understanding affine transformations requires considerable mathematical sophistication.", "word": "sophistication"}
+{"idx": 71, "label": 1, "sentence1": "Her glasaz laft morcs on the bryg of her nose.", "sentence2": "Rugby players often break the bridge of their noses.", "word": "bridge"}
+{"idx": 72, "label": 0, "sentence1": "Put a litel baking soda in zum vinager and uoch vot happens.", "sentence2": "The world is watching Sarajevo.", "word": "watch"}
+{"idx": 73, "label": 1, "sentence1": "grined lensis for glases and cameras.", "sentence2": "Grind an axe.", "word": "grind"}
+{"idx": 74, "label": 0, "sentence1": "It whil ival them to despos of theer booty.", "sentence2": "He availed himself of the available resources.", "word": "avail"}
+{"idx": 75, "label": 1, "sentence1": "tat theng is a poor icskus for a gingerbread man. Hasn't anyone toat you how to bake?", "sentence2": "He's a sorry excuse of a doctor.", "word": "excuse"}
+{"idx": 76, "label": 0, "sentence1": "The bauld egal is a denizen of the northern part of the state.", "sentence2": "The giant squid is one of many denizens of the deep.", "word": "denizen"}
+{"idx": 77, "label": 1, "sentence1": "I nid him to be nice.", "sentence2": "I needed him to go.", "word": "need"}
+{"idx": 78, "label": 1, "sentence1": "She ordered some wine for the meal.", "sentence2": "Wine is stronger than beer.", "word": "wine"}
+{"idx": 79, "label": 0, "sentence1": "pelan an attack.", "sentence2": "He plans to be in graduate school next year.", "word": "plan"}
+{"idx": 80, "label": 1, "sentence1": "gunie inveriabli trid to bhit her.", "sentence2": "As soon as you bite that sandwich, you'll know how good it is.", "word": "bite"}
+{"idx": 81, "label": 0, "sentence1": "partakal detectors sense ionization.", "sentence2": "She immediately sensed her disdain.", "word": "sense"}
+{"idx": 82, "label": 1, "sentence1": "The ecsplanashen was very simple.", "sentence2": "The explanation was long and drawn-out.", "word": "explanation"}
+{"idx": 83, "label": 0, "sentence1": "Slip inntu something comfortable.", "sentence2": "My grades are slipping.", "word": "slip"}
+{"idx": 84, "label": 0, "sentence1": "He has byn on relif for meny years.", "sentence2": "Was the relief supposed to be protection from future harm or compensation for past injury?", "word": "relief"}
+{"idx": 85, "label": 0, "sentence1": "She laust all her respect and athoreti aftr turning up drunk to the meeting.", "sentence2": "This book is the final authority on the life of Milton.", "word": "authority"}
+{"idx": 86, "label": 1, "sentence1": "We decided to faurg ahed wyth our plans ivin thow our bigst underritar bact out.", "sentence2": "He forged ahead.", "word": "forge"}
+{"idx": 87, "label": 0, "sentence1": "A mool is a cras bitween a hors and a donkey.", "sentence2": "That is his cross to bear.", "word": "cross"}
+{"idx": 88, "label": 0, "sentence1": "The gaim was intaruptid by a brief shower.", "sentence2": "A little shower of rose petals.", "word": "shower"}
+{"idx": 89, "label": 0, "sentence1": "They vant bancrapt doorin the economic crisis.", "sentence2": "After the crisis the patient either dies or gets better.", "word": "crisis"}
+{"idx": 90, "label": 0, "sentence1": "The dyat of the Giant pande censists manli of bamboo.", "sentence2": "He's been reading a steady diet of nonfiction for the last several years.", "word": "diet"}
+{"idx": 91, "label": 1, "sentence1": "A recrudescence of racism.", "sentence2": "A recrudescence of the symptoms.", "word": "recrudescence"}
+{"idx": 92, "label": 1, "sentence1": "liv yor child the nurse's care.", "sentence2": "He left the decision to his deputy.", "word": "leave"}
+{"idx": 93, "label": 0, "sentence1": "inkorperat this dacament wyth those pertanen to the satem case.", "sentence2": "The company was incorporated in 1980.", "word": "incorporate"}
+{"idx": 94, "label": 0, "sentence1": "The promulgation was written in English.", "sentence2": "His promulgation of the policy proved to be premature.", "word": "promulgation"}
+{"idx": 95, "label": 0, "sentence1": "He cood not conceal his hostility.", "sentence2": "He could no longer contain his hostility.", "word": "hostility"}
+{"idx": 96, "label": 0, "sentence1": "thei startad at the batam of the hill.", "sentence2": "They did much of their overseas trade in foreign bottoms.", "word": "bottom"}
+{"idx": 97, "label": 1, "sentence1": "He's my best mate.", "sentence2": "I'm going to the pub with a few mates.", "word": "mate"}
+{"idx": 98, "label": 0, "sentence1": "The publisher wants to destribut the buq in Asia.", "sentence2": "The function distributes the values evenly.", "word": "distribute"}
+{"idx": 99, "label": 1, "sentence1": "Rust remover.", "sentence2": "Paint remover.", "word": "remover"}
+{"idx": 100, "label": 1, "sentence1": "The forwerdeng of resumes to the persnel department.", "sentence2": "The forwarding of mail to a new address is done automatically.", "word": "forwarding"}
+{"idx": 101, "label": 0, "sentence1": "tha wershap in the tradishanal manner.", "sentence2": "Many Hindus worship Shiva.", "word": "worship"}
+{"idx": 102, "label": 0, "sentence1": "thei gave fool ple to the artist's talent.", "sentence2": "It was all done in play.", "word": "play"}
+{"idx": 103, "label": 0, "sentence1": "Flush the meadows.", "sentence2": "The sky flushed with rosy splendor.", "word": "flush"}
+{"idx": 104, "label": 0, "sentence1": "probashen is port of the sentanseng process.", "sentence2": "You'll be on probation for first six months. After that, if you work out, they'll hire you permanently.", "word": "probation"}
+{"idx": 105, "label": 1, "sentence1": "theer milateri is the lorgast in the region.", "sentence2": "He spent six years in the military.", "word": "military"}
+{"idx": 106, "label": 1, "sentence1": "They had to consult biffor arriving at a decision.", "sentence2": "Consult your local broker.", "word": "consult"}
+{"idx": 107, "label": 1, "sentence1": "A girl's education was lez impartant tane a boy's.", "sentence2": "Education is a preparation for life.", "word": "education"}
+{"idx": 108, "label": 1, "sentence1": "At liborte to choos wutever akapashan one wishes.", "sentence2": "Liberty to think or feel or do just as one pleases.", "word": "liberty"}
+{"idx": 109, "label": 1, "sentence1": "seiantists often can not dait presisly arcialogical or prehistorical findings.", "sentence2": "To date the building of the pyramids.", "word": "date"}
+{"idx": 110, "label": 1, "sentence1": "prysis vary.", "sentence2": "His moods vary depending on the weather.", "word": "vary"}
+{"idx": 111, "label": 1, "sentence1": "The breeze rustled the papors on her desk.", "sentence2": "The breeze was cooled by the lake.", "word": "breeze"}
+{"idx": 112, "label": 1, "sentence1": "A subsedi for research in artificial intelligence.", "sentence2": "Manufacturing firms are supported by government subsidies in some countries.", "word": "subsidy"}
+{"idx": 113, "label": 1, "sentence1": "Injustice is a haynas wrong.", "sentence2": "He feels that you are in the wrong.", "word": "wrong"}
+{"idx": 114, "label": 1, "sentence1": "One aspect of woterllu has not yet bin trited in the literature.", "sentence2": "The technical literature.", "word": "literature"}
+{"idx": 115, "label": 1, "sentence1": "Banish bad thoughts.", "sentence2": "Banish gloom.", "word": "banish"}
+{"idx": 116, "label": 1, "sentence1": "corv one's nem intu the bark.", "sentence2": "That chisel carved the statue.", "word": "carve"}
+{"idx": 117, "label": 1, "sentence1": "-- Who's the caller?", "sentence2": "There were so many callers that he finally disconnected the telephone.", "word": "caller"}
+{"idx": 118, "label": 0, "sentence1": "teim semz to drag woen you're waiting for a bus.", "sentence2": "The speech dragged on for two hours.", "word": "drag"}
+{"idx": 119, "label": 0, "sentence1": "aftr so mouch stress, he sufard a breakdown and simplly gaib up.", "sentence2": "His warning came after the breakdown of talks in London.", "word": "breakdown"}
+{"idx": 120, "label": 1, "sentence1": "Did you evur leckcher at Harvard?", "sentence2": "She lectured to the class about her travels.", "word": "lecture"}
+{"idx": 121, "label": 1, "sentence1": "A danjer to all raysis ovor the hol serkumfrans of the globe.", "sentence2": "He had walked the full circumference of his land.", "word": "circumference"}
+{"idx": 122, "label": 0, "sentence1": "Choke a carburetor.", "sentence2": "This neckband is choking the cat.", "word": "choke"}
+{"idx": 123, "label": 0, "sentence1": "Calibrate a gun.", "sentence2": "He calibrated the thermometer for the Celsius scale.", "word": "calibrate"}
+{"idx": 124, "label": 1, "sentence1": "Did I fal the test?", "sentence2": "She studied hard but failed nevertheless.", "word": "fail"}
+{"idx": 125, "label": 1, "sentence1": "You neid to poosh quite whord to get thys dawr open.", "sentence2": "Nora pushed through the crowd.", "word": "push"}
+{"idx": 126, "label": 0, "sentence1": "It was a mirecal theat he serbivd the drrap froum that height.", "sentence2": "That was a long drop, but fortunately I didn't break any bones.", "word": "drop"}
+{"idx": 127, "label": 0, "sentence1": "\"Among uthr native delicacies, they give you fresh char.\".", "sentence2": "\"I had to scrub the kitchen today, because the char couldn't come\".", "word": "char"}
+{"idx": 128, "label": 1, "sentence1": "The bus was leat so he myst his canectan at pen staschan and had to uat six owers for the neckst train.", "sentence2": "The plane was late and he missed his connection in Atlanta.", "word": "connection"}
+{"idx": 129, "label": 1, "sentence1": "tha departed huridli bekos of some grat urgansy in ther affairs.", "sentence2": "I'll be there, barring any urgencies.", "word": "urgency"}
+{"idx": 130, "label": 1, "sentence1": "I am treiing to kantact my sister.", "sentence2": "He never contacted his children after he emigrated to Australia.", "word": "contact"}
+{"idx": 131, "label": 0, "sentence1": "A serprysing experience.", "sentence2": "Experience is the best teacher.", "word": "experience"}
+{"idx": 132, "label": 1, "sentence1": "segmnt a compound word.", "sentence2": "Segment an orange.", "word": "segment"}
+{"idx": 133, "label": 0, "sentence1": "The flots and horsos in the porad wer impressive, but the morching baneds were rilie amazing.", "sentence2": "She made a parade of her sorrows.", "word": "parade"}
+{"idx": 134, "label": 0, "sentence1": "He needad a lot of pouer to hit the bol out of the stadium.", "sentence2": "The mysterious presence of an evil power.", "word": "power"}
+{"idx": 135, "label": 0, "sentence1": "A valuable fananshal affiliation.", "sentence2": "Welcomed the affiliation of the research center with the university.", "word": "affiliation"}
+{"idx": 136, "label": 1, "sentence1": "My weecli alouons of two eggs.", "sentence2": "Travel allowance.", "word": "allowance"}
+{"idx": 137, "label": 1, "sentence1": "We opind a new brranch in London.", "sentence2": "Our main branch is downtown.", "word": "branch"}
+{"idx": 138, "label": 0, "sentence1": "Instant reypla kosd too laung a delay.", "sentence2": "The delay before the echo of a sound.", "word": "delay"}
+{"idx": 139, "label": 0, "sentence1": "The adishan of a leap day evere fawr years.", "sentence2": "The addition of a bathroom was a major improvement.", "word": "addition"}
+{"idx": 140, "label": 1, "sentence1": "To libirat the maind frum prejudice.", "sentence2": "To liberate gases.", "word": "liberate"}
+{"idx": 141, "label": 1, "sentence1": "Bell cows.", "sentence2": "Who will bell the cat?", "word": "bell"}
+{"idx": 142, "label": 0, "sentence1": "Disable thys camand on uor computer.", "sentence2": "He was disabled in a car accident.", "word": "disable"}
+{"idx": 143, "label": 1, "sentence1": "Please listen cerfali as I explain.", "sentence2": "I like to listen to music.", "word": "listen"}
+{"idx": 144, "label": 1, "sentence1": "stap a car.", "sentence2": "Stop the thief.", "word": "stop"}
+{"idx": 145, "label": 1, "sentence1": "ilecshans figuer prominently in evere guvernmnt program.", "sentence2": "How do the elections figure in the current pattern of internal politics?", "word": "figure"}
+{"idx": 146, "label": 1, "sentence1": "A marriage of ideas.", "sentence2": "The marriage of music and dance.", "word": "marriage"}
+{"idx": 147, "label": 1, "sentence1": "The aksadant created a dimpil in the hood of the car.", "sentence2": "There are approximately 336 dimples on a golf ball.", "word": "dimple"}
+{"idx": 148, "label": 0, "sentence1": "The traler for tat movie makes it sim leik it would be fun.", "sentence2": "At the end of the day, we put the snowmobiles back on the trailer.", "word": "trailer"}
+{"idx": 149, "label": 1, "sentence1": "The intention of thes legaslashan is to buest the economy.", "sentence2": "Good intentions are not enough.", "word": "intention"}
+{"idx": 150, "label": 0, "sentence1": "mandet a colony.", "sentence2": "The new director of the school board mandated regular tests.", "word": "mandate"}
+{"idx": 151, "label": 0, "sentence1": "It was a lawng pull but we made it.", "sentence2": "He was sidelined with a hamstring pull.", "word": "pull"}
+{"idx": 152, "label": 1, "sentence1": "glays the bred ith eggwhite.", "sentence2": "The potter glazed the dishes.", "word": "glaze"}
+{"idx": 153, "label": 1, "sentence1": "He was a fomiler sit on the television.", "sentence2": "They went to Paris to see the sights.", "word": "sight"}
+{"idx": 154, "label": 1, "sentence1": "Can I kep my old stoft animals?", "sentence2": "She kept her maiden name after she married.", "word": "keep"}
+{"idx": 155, "label": 0, "sentence1": "thear was plenti of fud for everyone.", "sentence2": "It must have cost plenty.", "word": "plenty"}
+{"idx": 156, "label": 1, "sentence1": "The tyrant's apreshen of the people.", "sentence2": "The oppression of the poor by the aristocracy was one cause of the French Revolution.", "word": "oppression"}
+{"idx": 157, "label": 0, "sentence1": "Don't stran uor mighnd too much.", "sentence2": "The rope strained when the weight was attached.", "word": "strain"}
+{"idx": 158, "label": 0, "sentence1": "The news caused a sensation.", "sentence2": "A sensation of touch.", "word": "sensation"}
+{"idx": 159, "label": 1, "sentence1": "alvas a step behind.", "sentence2": "Keep in step with the fashions.", "word": "step"}
+{"idx": 160, "label": 0, "sentence1": "sut cloth.", "sentence2": "Shoot a star.", "word": "shoot"}
+{"idx": 161, "label": 1, "sentence1": "huq a fish.", "sentence2": "He hooked a snake accidentally, and was so scared he dropped his rod into the water.", "word": "hook"}
+{"idx": 162, "label": 1, "sentence1": "The homogenization of cream.", "sentence2": "The network's homogenization of political news.", "word": "homogenization"}
+{"idx": 163, "label": 0, "sentence1": "The inteier building kampland abowt the noise.", "sentence2": "The building of the bridge will be completed in a couple of weeks.", "word": "building"}
+{"idx": 164, "label": 1, "sentence1": "The relations bitven town and gown are olwas sensitive.", "sentence2": "In the perennial town versus gown battles, townies win some violent battles, but the collegians are winning the war.", "word": "gown"}
+{"idx": 165, "label": 0, "sentence1": "The new car is a delight.", "sentence2": "His delight to see her was obvious to all.", "word": "delight"}
+{"idx": 166, "label": 0, "sentence1": "The cupel chose to solemnize ther rilatanship in a secyaler ceremony, instad of havein a wedding.", "sentence2": "The King solemnized this day of morning.", "word": "solemnize"}
+{"idx": 167, "label": 0, "sentence1": "scalap the hem of the dress.", "sentence2": "Scallop the meat.", "word": "scallop"}
+{"idx": 168, "label": 0, "sentence1": "His secses in the merethan was unexpected.", "sentence2": "The election was a remarkable success for the Whigs.", "word": "success"}
+{"idx": 169, "label": 1, "sentence1": "The nap was a welcem refresher.", "sentence2": "He stopped at the bar for a quick refresher.", "word": "refresher"}
+{"idx": 170, "label": 0, "sentence1": "blak the signals emitted by this station.", "sentence2": "The thick curtain blocked the action on the stage.", "word": "block"}
+{"idx": 171, "label": 0, "sentence1": "reiting was a fawrm of theropi for him.", "sentence2": "The idea occurs with increasing frequency in Hemingway's writings.", "word": "writing"}
+{"idx": 172, "label": 1, "sentence1": "His stoodio was cramped when he bigane as an artist.", "sentence2": "You don't need a studio to make a passport photograph.", "word": "studio"}
+{"idx": 173, "label": 0, "sentence1": "Harass the enemy.", "sentence2": "This man harasses his female co-workers.", "word": "harass"}
+{"idx": 174, "label": 1, "sentence1": "The averige coct of a new house is twice as mouch as t was 20 irz ago.", "sentence2": "The total cost of the new complex was an estimated $1.5 million.", "word": "cost"}
+{"idx": 175, "label": 0, "sentence1": "Dip the brush into the paint.", "sentence2": "She dipped her knee.", "word": "dip"}
+{"idx": 176, "label": 0, "sentence1": "fuol aircraft, ships, and cars.", "sentence2": "Fuel the debate on creationism.", "word": "fuel"}
+{"idx": 177, "label": 0, "sentence1": "A lace frame.", "sentence2": "His starved flesh hung loosely on his once imposing frame.", "word": "frame"}
+{"idx": 178, "label": 1, "sentence1": "icsperemants so clirli theat genes segregate.", "sentence2": "Many towns segregated into new counties.", "word": "segregate"}
+{"idx": 179, "label": 0, "sentence1": "The mayn badey of the saond ran parallel to the coast.", "sentence2": "He strained to hear the faint sounds.", "word": "sound"}
+{"idx": 180, "label": 1, "sentence1": "tat is the cereckt pronunciation.", "sentence2": "The pronunciation of Chinese is difficult for foreigners.", "word": "pronunciation"}
+{"idx": 181, "label": 0, "sentence1": "Utter counterfit currency.", "sentence2": "He uttered strange sounds that nobody could understand.", "word": "utter"}
+{"idx": 182, "label": 0, "sentence1": "A joy to behold.", "sentence2": "The joys and demands of parenthood.", "word": "joy"}
+{"idx": 183, "label": 0, "sentence1": "gestts shood naver be layt to a dinner party.", "sentence2": "On Sundays they had a large dinner when they returned from church.", "word": "dinner"}
+{"idx": 184, "label": 0, "sentence1": "I meas wyth the wardroom officers.", "sentence2": "The afternoon breeze messed up my hair.", "word": "mess"}
+{"idx": 185, "label": 1, "sentence1": "The frentch tret food vit gentle reverence.", "sentence2": "The Chinese reverence for the dead.", "word": "reverence"}
+{"idx": 186, "label": 1, "sentence1": "lowd a car.", "sentence2": "Load the truck with hay.", "word": "load"}
+{"idx": 187, "label": 1, "sentence1": "She flossed her teeth.", "sentence2": "The hygienist flossed my teeth.", "word": "floss"}
+{"idx": 188, "label": 0, "sentence1": "printeng at whier resalushon uill kas a riduktan in performance.", "sentence2": "They never did achieve a final resolution of their differences.", "word": "resolution"}
+{"idx": 189, "label": 1, "sentence1": "threu doun the gauntlet.", "sentence2": "Took up the gauntlet.", "word": "gauntlet"}
+{"idx": 190, "label": 0, "sentence1": "rewm and board.", "sentence2": "He nailed boards across the windows.", "word": "board"}
+{"idx": 191, "label": 0, "sentence1": "Let's ilimnat the course on acadien hieroglyphics.", "sentence2": "This possibility can be eliminated from our consideration.", "word": "eliminate"}
+{"idx": 192, "label": 0, "sentence1": "He tuq a stab at forecasting.", "sentence2": "She felt a stab of excitement.", "word": "stab"}
+{"idx": 193, "label": 0, "sentence1": "The kik must be sincranisd vit the arm movements.", "sentence2": "A sidecar is a smooth drink but it has a powerful kick.", "word": "kick"}
+{"idx": 194, "label": 1, "sentence1": "The professionalization of warfare.", "sentence2": "The professionalization of American sports.", "word": "professionalization"}
+{"idx": 195, "label": 0, "sentence1": "The leinbakers wer redy to stap a rush.", "sentence2": "Come back after the rush.", "word": "rush"}
+{"idx": 196, "label": 1, "sentence1": "A generous tipper.", "sentence2": "The Americans are among the most generous tippers in the world.", "word": "tipper"}
+{"idx": 197, "label": 0, "sentence1": "I sim to be misanderstood by everyone.", "sentence2": "There seems no reason to go ahead with the project now.", "word": "seem"}
+{"idx": 198, "label": 0, "sentence1": "To bule relrod bonds.", "sentence2": "He bulled his way in.", "word": "bull"}
+{"idx": 199, "label": 0, "sentence1": "A clothes horse.", "sentence2": "500 horse led the attack.", "word": "horse"}
+{"idx": 200, "label": 0, "sentence1": "The histerie of thys werck is deskust in the neckst section.", "sentence2": "A graduate student taught sections for the professor's lecture course.", "word": "section"}
+{"idx": 201, "label": 0, "sentence1": "shak the sawlt out of the sollt shaker.", "sentence2": "His hands shook.", "word": "shake"}
+{"idx": 202, "label": 1, "sentence1": "The politician wore a bright uelo buton wyth the slogn \"Vote Smart\" emblasnd on it.", "sentence2": "They passed out campaign buttons for their candidate.", "word": "button"}
+{"idx": 203, "label": 1, "sentence1": "To influons the arousal of breyn and behavior.", "sentence2": "The purpose of art is the arousal of emotions.", "word": "arousal"}
+{"idx": 204, "label": 0, "sentence1": "To pick rags.", "sentence2": "Don't always pick on your little brother.", "word": "pick"}
+{"idx": 205, "label": 0, "sentence1": "Reline the paper.", "sentence2": "The old fur coat must be relined.", "word": "reline"}
+{"idx": 206, "label": 1, "sentence1": "I voat theat we all go home.", "sentence2": "She voted for going to the Chinese restaurant.", "word": "vote"}
+{"idx": 207, "label": 0, "sentence1": "brn a CD.", "sentence2": "My eyes are burning.", "word": "burn"}
+{"idx": 208, "label": 0, "sentence1": "The superintendence and agency of provadans in the naceral world. -- Woodward.", "sentence2": "The Central Intelligence Agency.", "word": "agency"}
+{"idx": 209, "label": 0, "sentence1": "tha swam in the nude.", "sentence2": "The marketing rule 'nude sells' spread from verbal to visual mainstream media in the 20th century.", "word": "nude"}
+{"idx": 210, "label": 1, "sentence1": "He put the cup baq in the saucer.", "sentence2": "The handle of the cup was missing.", "word": "cup"}
+{"idx": 211, "label": 0, "sentence1": "The mit hab reperkushans of unimaginable largeness.", "sentence2": "A man distinguished by the largeness and scope of his views.", "word": "largeness"}
+{"idx": 212, "label": 0, "sentence1": "limatad runwa capacity.", "sentence2": "He should be retained in his present capacity at a higher salary.", "word": "capacity"}
+{"idx": 213, "label": 0, "sentence1": "injekt heroin.", "sentence2": "He injected new life into the performance.", "word": "inject"}
+{"idx": 214, "label": 1, "sentence1": "The enemy had the advantage of a mor elavatid position.", "sentence2": "The experience gave him the advantage over me.", "word": "advantage"}
+{"idx": 215, "label": 1, "sentence1": "The book tells the staury of two roommates.", "sentence2": "Disney's stories entertain adults as well as children.", "word": "story"}
+{"idx": 216, "label": 0, "sentence1": "The reappearance of Halley's comet.", "sentence2": "His reappearance as Hamlet has been long awaited.", "word": "reappearance"}
+{"idx": 217, "label": 1, "sentence1": "You can cericteris his bihavyer as tat of an egotist.", "sentence2": "This poem can be characterized as a lament for a dead lover.", "word": "characterize"}
+{"idx": 218, "label": 0, "sentence1": "Each kllub playd six howm gaims vith timz in its own division.", "sentence2": "He played the drums at a jazz club.", "word": "club"}
+{"idx": 219, "label": 0, "sentence1": "The carpenter who billt thys rum must hav laust his square.", "sentence2": "64 is the square of 8.", "word": "square"}
+{"idx": 220, "label": 0, "sentence1": "thay set up camp neckst to the dig.", "sentence2": "She takes a dig at me every chance she gets.", "word": "dig"}
+{"idx": 221, "label": 0, "sentence1": "canditaning is a fawrm of learning by association.", "sentence2": "Many close associations with England.", "word": "association"}
+{"idx": 222, "label": 1, "sentence1": "The cemistri of indigo.", "sentence2": "The chemistry of iron.", "word": "chemistry"}
+{"idx": 223, "label": 0, "sentence1": "He plaed the trumps in sequence.", "sentence2": "The doctor saw a sequence of patients.", "word": "sequence"}
+{"idx": 224, "label": 0, "sentence1": "The impregnashon of wood ith preservative.", "sentence2": "The impregnation, whatever it was, had turned the rock blue.", "word": "impregnation"}
+{"idx": 225, "label": 1, "sentence1": "She wonts to act laidy Macbeth, but she is too iung for the role.", "sentence2": "I started acting at the age of eleven in my local theatre.", "word": "act"}
+{"idx": 226, "label": 0, "sentence1": "Recruit new soldiers.", "sentence2": "The lab director recruited an able crew of assistants.", "word": "recruit"}
+{"idx": 227, "label": 0, "sentence1": "I know of the man; but hav no akwantans ith him.", "sentence2": "I have trouble remembering the names of all my acquaintances.", "word": "acquaintance"}
+{"idx": 228, "label": 1, "sentence1": "Bag a few pheasants.", "sentence2": "We bagged three deer yesterday.", "word": "bag"}
+{"idx": 229, "label": 1, "sentence1": "sumer seemz to lact laungger eech year.", "sentence2": "The bad weather lasted for three days.", "word": "last"}
+{"idx": 230, "label": 1, "sentence1": "Let's fynalis the proposal.", "sentence2": "As soon as we get the plane tickets, we'll finalize our reservations with the hotel.", "word": "finalize"}
+{"idx": 231, "label": 1, "sentence1": "iodmit sumwan to the profession.", "sentence2": "She was admitted to the New Jersey Bar.", "word": "admit"}
+{"idx": 232, "label": 0, "sentence1": "An igsecatib or judical office.", "sentence2": "During his first year in office.", "word": "office"}
+{"idx": 233, "label": 0, "sentence1": "They loock the sem in outverd view.", "sentence2": "The most desirable feature of the park are the beautiful views.", "word": "view"}
+{"idx": 234, "label": 0, "sentence1": "He was a tool, no moar than a poun to her.", "sentence2": "I don't have the right tools to start fiddling around with the engine.", "word": "tool"}
+{"idx": 235, "label": 1, "sentence1": "The policeman vated for a hartbet in vain.", "sentence2": "He alone gives me such heartbeats.", "word": "heartbeat"}
+{"idx": 236, "label": 0, "sentence1": "thes vill renevat my spirits.", "sentence2": "They renovated the ceiling of the Sistine Chapel.", "word": "renovate"}
+{"idx": 237, "label": 1, "sentence1": "A brannch of Congress.", "sentence2": "We have branches in all major suburbs.", "word": "branch"}
+{"idx": 238, "label": 0, "sentence1": "Her dog likes to tre squirrels.", "sentence2": "This lot should be treed so that the house will be shaded in summer.", "word": "tree"}
+{"idx": 239, "label": 1, "sentence1": "Bean curd.", "sentence2": "Lemon curd.", "word": "curd"}
+{"idx": 240, "label": 0, "sentence1": "War is hell.", "sentence2": "The hell of battle.", "word": "hell"}
+{"idx": 241, "label": 1, "sentence1": "The CIA chif of staschan ackseptid responsibility for his agents' failures of tradecraft.", "sentence2": "Instructional designers are trained in something that might be called tradecraft.", "word": "tradecraft"}
+{"idx": 242, "label": 1, "sentence1": "We didn't bileev his storis from the War.", "sentence2": "I believed his report.", "word": "believe"}
+{"idx": 243, "label": 0, "sentence1": "The annual crop of stoodants brings many new ideas.", "sentence2": "The latest crop of fashions is about to hit the stores.", "word": "crop"}
+{"idx": 244, "label": 1, "sentence1": "A glow of regret.", "sentence2": "The glow of new love.", "word": "glow"}
+{"idx": 245, "label": 0, "sentence1": "rangal horses.", "sentence2": "The bar keeper threw them out, but they continued to wrangle on down the street.", "word": "wrangle"}
+{"idx": 246, "label": 0, "sentence1": "He laxs the foundation necessary for odvanst study.", "sentence2": "The Wikimedia Foundation, Inc. is the parent organization of the Wiktionary collaborative project.", "word": "foundation"}
+{"idx": 247, "label": 0, "sentence1": "rendur the brik wols in the den.", "sentence2": "The face of the child is rendered with much tenderness in this painting.", "word": "render"}
+{"idx": 248, "label": 0, "sentence1": "His dait neveer stopt talking.", "sentence2": "The date for pleading.", "word": "date"}
+{"idx": 249, "label": 1, "sentence1": "A disees of freecwant occurrence.", "sentence2": "The occurrence (or presence) of life on other planets.", "word": "occurrence"}
+{"idx": 250, "label": 0, "sentence1": "indent the documents.", "sentence2": "Indent the paragraphs of a letter.", "word": "indent"}
+{"idx": 251, "label": 0, "sentence1": "There's no weeping at an irisch wake.", "sentence2": "The motorboat's wake capsized the canoe.", "word": "wake"}
+{"idx": 252, "label": 1, "sentence1": "The wudes planted in ash vill see a difernt mix of species.", "sentence2": "The ash trees are dying off.", "word": "ash"}
+{"idx": 253, "label": 1, "sentence1": "The preponderance of good ovor evil.", "sentence2": "The preponderance of wealth and power.", "word": "preponderance"}
+{"idx": 254, "label": 1, "sentence1": "thei plaed a gig in New Jersey.", "sentence2": "Our guitar player had another gig so we had to get a sub.", "word": "gig"}
+{"idx": 255, "label": 1, "sentence1": "I ferbid you to col me lat at night.", "sentence2": "The rules forbid it.", "word": "forbid"}
+{"idx": 256, "label": 1, "sentence1": "ingglesh is a cognate of Greek, German, rushon and Persian.", "sentence2": "English and, Russian, Icelandic and Irish are all cognates.", "word": "cognate"}
+{"idx": 257, "label": 1, "sentence1": "He cauntid the house.", "sentence2": "The house applauded.", "word": "house"}
+{"idx": 258, "label": 1, "sentence1": "He alowd a muneth to illaps before begining the work.", "sentence2": "Several days elapsed before they met again.", "word": "elapse"}
+{"idx": 259, "label": 1, "sentence1": "The intolerable leisans vit wych the nuzpapers brayk ... the rulls of dicorem -- Edmund Burke.", "sentence2": "When liberty becomes license dictatorship is near -- Will Durant.", "word": "license"}
+{"idx": 260, "label": 0, "sentence1": "The sitey has an ecsolant nacherel harbour.", "sentence2": "The neighbourhood is a well-known harbour for petty thieves.", "word": "harbour"}
+{"idx": 261, "label": 1, "sentence1": "All abuse, wether physical, verbal, sicalojical or sexual, is bad.", "sentence2": "The child showed signs of physical abuse.", "word": "abuse"}
+{"idx": 262, "label": 1, "sentence1": "The dansor was prazd for her uncanny extension.", "sentence2": "Good extension comes from a combination of training and native ability.", "word": "extension"}
+{"idx": 263, "label": 0, "sentence1": "makeng a hoby of domesticity.", "sentence2": "A royal family living in unpretentious domesticity.", "word": "domesticity"}
+{"idx": 264, "label": 0, "sentence1": "The impirielist nashen uontid to stranggel the fri trade between the two smol countries.", "sentence2": "A man in Boston has been strangling several dozen prostitutes.", "word": "strangle"}
+{"idx": 265, "label": 1, "sentence1": "He had a bye in the ferct round.", "sentence2": "Craig's Crew plays the bye next week.", "word": "bye"}
+{"idx": 266, "label": 0, "sentence1": "The raond of the seasons.", "sentence2": "The postman's rounds.", "word": "round"}
+{"idx": 267, "label": 0, "sentence1": "I kood see it in the distance.", "sentence2": "The distance from New York to Chicago.", "word": "distance"}
+{"idx": 268, "label": 0, "sentence1": "That's a lowd off my mind.", "sentence2": "I'm worried that the load on that transformer will be too high.", "word": "load"}
+{"idx": 269, "label": 0, "sentence1": "One can nevr fully riper the sufering and losses of the juz in the thord Reich.", "sentence2": "She repaired her TV set.", "word": "repair"}
+{"idx": 270, "label": 1, "sentence1": "A streek of wildness.", "sentence2": "He has a stubborn streak.", "word": "streak"}
+{"idx": 271, "label": 1, "sentence1": "indiferons is the switast revenge.", "sentence2": "When I left my wife, she tried to set fire to the house in revenge.", "word": "revenge"}
+{"idx": 272, "label": 1, "sentence1": "He hadn't sien his dad in years.", "sentence2": "Dad, happy Father's Day!", "word": "dad"}
+{"idx": 273, "label": 1, "sentence1": "moar fuel is needad during the wintter months.", "sentence2": "They developed alternative fuels for aircraft.", "word": "fuel"}
+{"idx": 274, "label": 1, "sentence1": "The wuman charged tat her jailer was a fondler.", "sentence2": "Not all fondlers are sexual perverts.", "word": "fondler"}
+{"idx": 275, "label": 0, "sentence1": "I'd flip if anyone browk my phone.", "sentence2": "He flipped when he heard that he was accepted into Princeton University.", "word": "flip"}
+{"idx": 276, "label": 1, "sentence1": "The luk of the draw.", "sentence2": "They anticipated a tough draw.", "word": "draw"}
+{"idx": 277, "label": 1, "sentence1": "I saw a postr for it on the sid of a bus.", "sentence2": "A poster advertised the coming attractions.", "word": "poster"}
+{"idx": 278, "label": 1, "sentence1": "The restorant is notad for its eksalant cuisine.", "sentence2": "French cuisine is considered to be one of the world's most refined and elegant styles of cooking.", "word": "cuisine"}
+{"idx": 279, "label": 1, "sentence1": "Tap a cask of wine.", "sentence2": "He tapped a new barrel of beer.", "word": "tap"}
+{"idx": 280, "label": 0, "sentence1": "I vud love to hab dyner but I hab to cach a plane.", "sentence2": "We caught something of his theory in the lecture.", "word": "catch"}
+{"idx": 281, "label": 0, "sentence1": "thys car cud be jusst the ticat for a small family.", "sentence2": "Joe will be running on an anti-crime ticket.", "word": "ticket"}
+{"idx": 282, "label": 0, "sentence1": "thei didn't have mouch in the way of clothing.", "sentence2": "We went our separate ways.", "word": "way"}
+{"idx": 283, "label": 0, "sentence1": "Triangulate the pes of cardboard.", "sentence2": "The land surveyor worked by triangulating the plot.", "word": "triangulate"}
+{"idx": 284, "label": 0, "sentence1": "Can I invight you for dyner on sonda night?", "sentence2": "The organizers invite submissions of papers for the conference.", "word": "invite"}
+{"idx": 285, "label": 1, "sentence1": "A palitacel gesture.", "sentence2": "A gesture of defiance.", "word": "gesture"}
+{"idx": 286, "label": 1, "sentence1": "He is obowt averej in height.", "sentence2": "The snowfall this month is below average.", "word": "average"}
+{"idx": 287, "label": 0, "sentence1": "thes pantings exalt the imagination.", "sentence2": "The man was exalted from a humble carpenter to a minister.", "word": "exalt"}
+{"idx": 288, "label": 1, "sentence1": "Comb the wool.", "sentence2": "Comb your hair before dinner.", "word": "comb"}
+{"idx": 289, "label": 1, "sentence1": "Truman upset dooy in the 1948 US presedenshal election.", "sentence2": "The foreign team upset the local team.", "word": "upset"}
+{"idx": 290, "label": 1, "sentence1": "To convey information.", "sentence2": "She conveyed the message to me.", "word": "convey"}
+{"idx": 291, "label": 1, "sentence1": "Send me yor laitast results.", "sentence2": "Nora sent the book from Paris.", "word": "send"}
+{"idx": 292, "label": 0, "sentence1": "The animal daid a panfol death.", "sentence2": "He seemed more content in death than he had ever been in life.", "word": "death"}
+{"idx": 293, "label": 0, "sentence1": "He laft the preparation of mls to his wife.", "sentence2": "The resolution of one dissonance is often the preparation for another dissonance.", "word": "preparation"}
+{"idx": 294, "label": 0, "sentence1": "ibsorb the cacts for something.", "sentence2": "He absorbed the knowledge or beliefs of his tribe.", "word": "absorb"}
+{"idx": 295, "label": 1, "sentence1": "sum of the membars may donate privately.", "sentence2": "She donates to her favorite charity every month.", "word": "donate"}
+{"idx": 296, "label": 1, "sentence1": "For an ellipse, the eksantrisaty is the rasheo of the distins from the sentr to a focos devidid by the lengkth of the semi-major axis.", "sentence2": "A circle is an ellipse with zero eccentricity.", "word": "eccentricity"}
+{"idx": 297, "label": 0, "sentence1": "Don't fiddle with the screws.", "sentence2": "She always fiddles with her van on the weekend.", "word": "fiddle"}
+{"idx": 298, "label": 0, "sentence1": "To ask at thaed perticaler tym was the ultamot in bad taste.", "sentence2": "He got a taste of life on the wild side.", "word": "taste"}
+{"idx": 299, "label": 0, "sentence1": "poynt a gun.", "sentence2": "It's rude to point at other people.", "word": "point"}
+{"idx": 300, "label": 1, "sentence1": "In the sumor the nitllif shifts to the dance clubs.", "sentence2": "A futile search for intelligent nightlife.", "word": "nightlife"}
+{"idx": 301, "label": 0, "sentence1": "sum people put the stress on the fersst silabol of \"controversy\"; uthers put it on the second.", "sentence2": "The intensity of stress is expressed in units of force divided by units of area.", "word": "stress"}
+{"idx": 302, "label": 0, "sentence1": "An amendmant to piggyback the cerent law.", "sentence2": "He piggybacked her child so she could see the show.", "word": "piggyback"}
+{"idx": 303, "label": 0, "sentence1": "He was ordered to reyport for inducshen inntu the army.", "sentence2": "The induction of an anesthetic state.", "word": "induction"}
+{"idx": 304, "label": 1, "sentence1": "ples modefi this letor to make it mor polite.", "sentence2": "He modified his views on same-gender marriage.", "word": "modify"}
+{"idx": 305, "label": 0, "sentence1": "By adeng \"-ness\", you can fawrm a naon frum an adjective.", "sentence2": "Form cylinders from the dough.", "word": "form"}
+{"idx": 306, "label": 1, "sentence1": "thez schus coct $100.", "sentence2": "The bill will cost them 500 million dollars.", "word": "cost"}
+{"idx": 307, "label": 1, "sentence1": "Pat pushed the buton marckt \"shred\" on the blender.", "sentence2": "The elevator was operated by push buttons.", "word": "button"}
+{"idx": 308, "label": 0, "sentence1": "The armi retreated in confusion.", "sentence2": "A confusion of impressions.", "word": "confusion"}
+{"idx": 309, "label": 0, "sentence1": "The hows was a mess.", "sentence2": "My boss dumped a whole mess of projects on my desk today.", "word": "mess"}
+{"idx": 310, "label": 0, "sentence1": "ter was a blockage in the sewer, so we cauld out the plumber.", "sentence2": "We had to call a plumber to clear out the blockage in the drainpipe.", "word": "blockage"}
+{"idx": 311, "label": 1, "sentence1": "The action timz worked in partnerschip wyth the government.", "sentence2": "Effective language learning is a partnership between school, teacher and student.", "word": "partnership"}
+{"idx": 312, "label": 0, "sentence1": "Gap bitwin incum and outgo.", "sentence2": "The exploring party went through the high gap in the mountains.", "word": "gap"}
+{"idx": 313, "label": 1, "sentence1": "plees can I hab a look, if I prames not to touch?", "sentence2": "Carrie touched his shoulder with the stick.", "word": "touch"}
+{"idx": 314, "label": 1, "sentence1": "The nyl delta.", "sentence2": "The Mississippi River delta.", "word": "delta"}
+{"idx": 315, "label": 1, "sentence1": "We woent ther by foot bicos we kud not iford a taxi.", "sentence2": "There is a lot of foot traffic on this street.", "word": "foot"}
+{"idx": 316, "label": 1, "sentence1": "He wishis to accumulate a sum of money.", "sentence2": "Journals are accumulating in my office.", "word": "accumulate"}
+{"idx": 317, "label": 1, "sentence1": "Most websites contain metadata to tell the cemputer how to lay the werdz out on the screen.", "sentence2": "A library catalog is metadata because it describes publications.", "word": "metadata"}
+{"idx": 318, "label": 0, "sentence1": "This bihaber vil ruin uor chansos of winning the election.", "sentence2": "The country lay ruined after the war.", "word": "ruin"}
+{"idx": 319, "label": 1, "sentence1": "I olredi hab a son, so I woud lyk to hav a daughter.", "sentence2": "Her daughter cared for her in her old age.", "word": "daughter"}
+{"idx": 320, "label": 0, "sentence1": "acseshan to soch demands ud set a dangeres precedent.", "sentence2": "The librarian shelved the new accessions.", "word": "accession"}
+{"idx": 321, "label": 1, "sentence1": "Let loose mines.", "sentence2": "Loose terrible plagues upon humanity.", "word": "loose"}
+{"idx": 322, "label": 0, "sentence1": "tis siley ikscus won't wot in trafek court.", "sentence2": "The cat washes several times a day.", "word": "wash"}
+{"idx": 323, "label": 1, "sentence1": "He laft an indelible marck on the amerecan theater.", "sentence2": "It was in London that he made his mark.", "word": "mark"}
+{"idx": 324, "label": 1, "sentence1": "Analyze ior ril motives.", "sentence2": "The inspector analyzed the building's soundness.", "word": "analyze"}
+{"idx": 325, "label": 1, "sentence1": "The steak was tof to tchu as it had bin cooct too long.", "sentence2": "Chew your food and don't swallow it!", "word": "chew"}
+{"idx": 326, "label": 1, "sentence1": "Lydia put the change in her laft pocket.", "sentence2": "Lydia pocketed the change.", "word": "pocket"}
+{"idx": 327, "label": 0, "sentence1": "ther are thri synagogues in the juish section.", "sentence2": "Sections from the left ventricle showed diseased tissue.", "word": "section"}
+{"idx": 328, "label": 1, "sentence1": "ter is a grup of housis bihind the hill.", "sentence2": "A group of people gathered in front of the Parliament to demonstrate against the Prime Minister's proposals.", "word": "group"}
+{"idx": 329, "label": 0, "sentence1": "proses iron.", "sentence2": "They processed into the dining room.", "word": "process"}
+{"idx": 330, "label": 0, "sentence1": "injekt hidragen inntu the balloon.", "sentence2": "Now lie back while we inject you with the anesthetic.", "word": "inject"}
+{"idx": 331, "label": 1, "sentence1": "The sultriness of her loock was unmistakable.", "sentence2": "The sultriness of lust was in the air.", "word": "sultriness"}
+{"idx": 332, "label": 1, "sentence1": "percalat coffee.", "sentence2": "I'll percolate some coffee.", "word": "percolate"}
+{"idx": 333, "label": 1, "sentence1": "To clutch power.", "sentence2": "She clutched her purse.", "word": "clutch"}
+{"idx": 334, "label": 0, "sentence1": "To myr a hors or wagon.", "sentence2": "Our people should not be mired in the past.", "word": "mire"}
+{"idx": 335, "label": 1, "sentence1": "studnts rasev instrukshan in the arts and sciences.", "sentence2": "Instruction will be provided on how to handle difficult customers.", "word": "instruction"}
+{"idx": 336, "label": 0, "sentence1": "aflikt with the plague.", "sentence2": "She was afflicted by the death of her parents.", "word": "afflict"}
+{"idx": 337, "label": 0, "sentence1": "thei served me a dysh of rice.", "sentence2": "We gave them a set of dishes for a wedding present.", "word": "dish"}
+{"idx": 338, "label": 1, "sentence1": "In my opinion, uyt choclot is betur than milx chocolate.", "sentence2": "I would like to know your opinions on the new systems.", "word": "opinion"}
+{"idx": 339, "label": 0, "sentence1": "The pek of perfection.", "sentence2": "The view from the peak was magnificent.", "word": "peak"}
+{"idx": 340, "label": 1, "sentence1": "Anthropology's kinshep wyth the humanities.", "sentence2": "Felt a deep kinship with the other students.", "word": "kinship"}
+{"idx": 341, "label": 1, "sentence1": "thay dighd in the defense of Stalingrad.", "sentence2": "They were developed for the defense program.", "word": "defense"}
+{"idx": 342, "label": 0, "sentence1": "In the middle of the marathon, devid kalapst phrum fatigue.", "sentence2": "Rain during the middle of April.", "word": "middle"}
+{"idx": 343, "label": 1, "sentence1": "To moderate a synod.", "sentence2": "John moderated the discussion.", "word": "moderate"}
+{"idx": 344, "label": 0, "sentence1": "fllik a pis of payper ocros the table.", "sentence2": "He flicked his Bic.", "word": "flick"}
+{"idx": 345, "label": 1, "sentence1": "He came out of nowhere.", "sentence2": "They went on a cruise to nowhere.", "word": "nowhere"}
+{"idx": 346, "label": 0, "sentence1": "The bues of icsitmant was so grat that a formel denial was issued.", "sentence2": "The buzz of a bumble bee.", "word": "buzz"}
+{"idx": 347, "label": 1, "sentence1": "elisabithan sculbois wer toat adoxography, the art of eruditely prasin wurthlas things.", "sentence2": "Adoxography is particularly useful to lawyers.", "word": "adoxography"}
+{"idx": 348, "label": 1, "sentence1": "ther are drogs disynd to icseit sertan nervz in our body.", "sentence2": "Excite the audience.", "word": "excite"}
+{"idx": 349, "label": 1, "sentence1": "diskushan of the imerjansi situation will preempt the leckcher by the professor.", "sentence2": "Live broadcast of the presidential debate preempts the regular news hour.", "word": "preempt"}
+{"idx": 350, "label": 1, "sentence1": "winterys cars.", "sentence2": "Winterize your houses.", "word": "winterize"}
+{"idx": 351, "label": 1, "sentence1": "She can not conceive.", "sentence2": "Assisted procreation can help those trying to conceive.", "word": "conceive"}
+{"idx": 352, "label": 1, "sentence1": "ther trueps uir untrained militia.", "sentence2": "Congress shall have power to provide for calling forth the militia -- United States Constitution.", "word": "militia"}
+{"idx": 353, "label": 1, "sentence1": "He falt a streem of air.", "sentence2": "The hose ejected a stream of water.", "word": "stream"}
+{"idx": 354, "label": 1, "sentence1": "I uoch thiz muvys bekos tha amoos me.", "sentence2": "The clown amused the children.", "word": "amuse"}
+{"idx": 355, "label": 0, "sentence1": "miloteris the Civil Service.", "sentence2": "Militarize Germany again after the war.", "word": "militarize"}
+{"idx": 356, "label": 0, "sentence1": "He tuq the manaskript in boath haneds and gaib it a meity tear.", "sentence2": "There were big tears rolling down Lisa's cheeks.", "word": "tear"}
+{"idx": 357, "label": 0, "sentence1": "Martin's snnach at the brydal faild and the hars raced away.", "sentence2": "Overheard snatches of their conversation.", "word": "snatch"}
+{"idx": 358, "label": 0, "sentence1": "catelitic activity.", "sentence2": "They avoided all recreational activity.", "word": "activity"}
+{"idx": 359, "label": 1, "sentence1": "The aptness of men to folo example.", "sentence2": "The aptness of iron to rust.", "word": "aptness"}
+{"idx": 360, "label": 1, "sentence1": "tat toaster can mayk vunderfal toasts.", "sentence2": "I ate a piece of toast for breakfast.", "word": "toast"}
+{"idx": 361, "label": 0, "sentence1": "The engenir morveld at his construction.", "sentence2": "Construction is underway on the new bridge.", "word": "construction"}
+{"idx": 362, "label": 0, "sentence1": "tey had a byter exchange.", "sentence2": "An exchange of cattle for grain.", "word": "exchange"}
+{"idx": 363, "label": 0, "sentence1": "He ran to safety.", "sentence2": "The reciprocal of safety is risk.", "word": "safety"}
+{"idx": 364, "label": 1, "sentence1": "pllis holld a table at Maxim's.", "sentence2": "Hold a table for us at 7:00.", "word": "hold"}
+{"idx": 365, "label": 0, "sentence1": "thoes who critisiz utherz oftin are not perfect, either.", "sentence2": "The paper criticized the new movie.", "word": "criticize"}
+{"idx": 366, "label": 0, "sentence1": "The duke's fifdem had bin greatly expanded as a reuord for his dutiful military service on bihaph of the king.", "sentence2": "Most of our company's computers are standardized, but the IT director allows the employees in his own little fiefdom to specify their own machines.", "word": "fiefdom"}
+{"idx": 367, "label": 1, "sentence1": "Whimsy can be humeros to sumvun vith tighm to enjoy it.", "sentence2": "He had a whimsy about flying to the moon.", "word": "whimsy"}
+{"idx": 368, "label": 0, "sentence1": "There's too much shadiness to taik goud photographs.", "sentence2": "The shadiness of their transactions.", "word": "shadiness"}
+{"idx": 369, "label": 1, "sentence1": "A hard hitter.", "sentence2": "Blacksmiths are good hitters.", "word": "hitter"}
+{"idx": 370, "label": 1, "sentence1": "I'll toss you for it.", "sentence2": "Steve tossed John the ball.", "word": "toss"}
+{"idx": 371, "label": 1, "sentence1": "biled up confidence.", "sentence2": "They had to build up their fortress to protect against attack.", "word": "build"}
+{"idx": 372, "label": 1, "sentence1": "Fold up the newspaper.", "sentence2": "Tony folded the flaps open.", "word": "fold"}
+{"idx": 373, "label": 1, "sentence1": "tat langgwag has a complecs system for indakating gender.", "sentence2": "They have to operate under a system they oppose.", "word": "system"}
+{"idx": 374, "label": 1, "sentence1": "My hors was several lengths beheind at the finish.", "sentence2": "The winner is the team with the most points at the finish.", "word": "finish"}
+{"idx": 375, "label": 1, "sentence1": "You shuffle, I'll deal.", "sentence2": "Shuffle the cards.", "word": "shuffle"}
+{"idx": 376, "label": 1, "sentence1": "The plane's operation in hie winds.", "sentence2": "The power of its engine determines its operation.", "word": "operation"}
+{"idx": 377, "label": 1, "sentence1": "The new law mit obrig our fridem of expression.", "sentence2": "He had his rights abridged by the crooked sheriff.", "word": "abridge"}
+{"idx": 378, "label": 0, "sentence1": "He got his wish.", "sentence2": "My best wishes.", "word": "wish"}
+{"idx": 379, "label": 0, "sentence1": "He publesht an unikspectid atack on my work.", "sentence2": "An attack of diarrhea.", "word": "attack"}
+{"idx": 380, "label": 1, "sentence1": "He was givun a muneth to pay the bill.", "sentence2": "We went on holiday for two months.", "word": "month"}
+{"idx": 381, "label": 1, "sentence1": "To nach the air in fury.", "sentence2": "To gnash a carpet.", "word": "gnash"}
+{"idx": 382, "label": 0, "sentence1": "We kambust col and utor fosal fuels.", "sentence2": "The professor combusted when the student didn't know the answer to a very elementary question.", "word": "combust"}
+{"idx": 383, "label": 1, "sentence1": "ecanomik cooperation.", "sentence2": "They agreed on a policy of cooperation.", "word": "cooperation"}
+{"idx": 384, "label": 1, "sentence1": "'Brunch' is a well-known portmanteau.", "sentence2": "'Motel' is a portmanteau word made by combining 'motor' and 'hotel'.", "word": "portmanteau"}
+{"idx": 385, "label": 1, "sentence1": "Brush aside the objections.", "sentence2": "Brush the dust from the jacket.", "word": "brush"}
+{"idx": 386, "label": 0, "sentence1": "You can not be canbictad of crimanel gylt by association.", "sentence2": "He joined the Modern Language Association.", "word": "association"}
+{"idx": 387, "label": 0, "sentence1": "A rhit identity, x * I = x for any x in the structure.", "sentence2": "You can lose your identity when you join the army.", "word": "identity"}
+{"idx": 388, "label": 0, "sentence1": "A beras of questions.", "sentence2": "They laid down a barrage in front of the advancing troops.", "word": "barrage"}
+{"idx": 389, "label": 1, "sentence1": "I rarely utend servisis at my church.", "sentence2": "She attends class regularly.", "word": "attend"}
+{"idx": 390, "label": 1, "sentence1": "They qept a log of all transmishen by the radio station.", "sentence2": "An email log.", "word": "log"}
+{"idx": 391, "label": 1, "sentence1": "We can't iford to send our children to college.", "sentence2": "Can you afford this car?", "word": "afford"}
+{"idx": 392, "label": 1, "sentence1": "The fils vill irays quickly.", "sentence2": "The chalkboard erased easily.", "word": "erase"}
+{"idx": 393, "label": 0, "sentence1": "She has fri agency.", "sentence2": "Central Intelligence Agency.", "word": "agency"}
+{"idx": 394, "label": 1, "sentence1": "She lubs to stay at howm and cocoon.", "sentence2": "Families cocoon around the T.V. set most evenings.", "word": "cocoon"}
+{"idx": 395, "label": 1, "sentence1": "A rihersal whil be haild the day bifaur the wedding.", "sentence2": "He missed too many rehearsals.", "word": "rehearsal"}
+{"idx": 396, "label": 0, "sentence1": "Will the new rulz ofect me?", "sentence2": "The medicine affects my heart rate.", "word": "affect"}
+{"idx": 397, "label": 1, "sentence1": "Please sin on the doted line.", "sentence2": "Please sign here.", "word": "sign"}
+{"idx": 398, "label": 0, "sentence1": "A strin of islands.", "sentence2": "The strings played superlatively well.", "word": "string"}
+{"idx": 399, "label": 1, "sentence1": "She only vor that dress to apstaj everyone.", "sentence2": "When the dog entered the stage, he upstaged the actress.", "word": "upstage"}
+{"idx": 400, "label": 1, "sentence1": "The wateriness of his blood.", "sentence2": "The haziness and wateriness of his disquisitions.", "word": "wateriness"}
+{"idx": 401, "label": 0, "sentence1": "The draing of uoter frum the well.", "sentence2": "He did complicated pen-and-ink drawings like medieval miniatures.", "word": "drawing"}
+{"idx": 402, "label": 0, "sentence1": "He drank a mikscher of ber and lemonade.", "sentence2": "The mixture of sulphuric acid and water produces heat.", "word": "mixture"}
+{"idx": 403, "label": 0, "sentence1": "His ditenshon was politically motivated.", "sentence2": "The detention of tardy pupils.", "word": "detention"}
+{"idx": 404, "label": 1, "sentence1": "The celaps of the old star undr its own gravity.", "sentence2": "The roof is in danger of collapse.", "word": "collapse"}
+{"idx": 405, "label": 1, "sentence1": "Don't handle the merchandise.", "sentence2": "About his altar, handling holy things -- John Milton.", "word": "handle"}
+{"idx": 406, "label": 1, "sentence1": "State uor name.", "sentence2": "State your opinion.", "word": "state"}
+{"idx": 407, "label": 0, "sentence1": "iz the pain in your legs.", "sentence2": "The pain eased overnight.", "word": "ease"}
+{"idx": 408, "label": 0, "sentence1": "He was a bad influons on the children.", "sentence2": "Used her parents' influence to get the job.", "word": "influence"}
+{"idx": 409, "label": 1, "sentence1": "The fawrs required to ckampres a spring veris linierle wyth the displacement.", "sentence2": "She compressed her lips.", "word": "compress"}
+{"idx": 410, "label": 1, "sentence1": "Rouge dragen is a herald at the colij of Arms.", "sentence2": "The chieftain had a herald who announced his arrival with a trumpet.", "word": "herald"}
+{"idx": 411, "label": 0, "sentence1": "I appreciate yor efforts.", "sentence2": "The yen appreciated again!", "word": "appreciate"}
+{"idx": 412, "label": 1, "sentence1": "retirn her love.", "sentence2": "Return a compliment.", "word": "return"}
+{"idx": 413, "label": 0, "sentence1": "prieper for war.", "sentence2": "We prepared a fish for dinner.", "word": "prepare"}
+{"idx": 414, "label": 0, "sentence1": "Hit the bottle.", "sentence2": "He tries to hit on women in bars.", "word": "hit"}
+{"idx": 415, "label": 1, "sentence1": "Want the strencth to go on living.", "sentence2": "Flood victims wanting food and shelter.", "word": "want"}
+{"idx": 416, "label": 1, "sentence1": "taday is a wican holiday!", "sentence2": "No mail is delivered on federal holidays.", "word": "holiday"}
+{"idx": 417, "label": 1, "sentence1": "The baull at the base of the thumb.", "sentence2": "He stood on the balls of his feet.", "word": "ball"}
+{"idx": 418, "label": 0, "sentence1": "He rimembrd her becos she was cariing a larg portfolio.", "sentence2": "He holds the portfolio for foreign affairs.", "word": "portfolio"}
+{"idx": 419, "label": 1, "sentence1": "Washing dishes is a chore, but we can not just stop eating.", "sentence2": "The farmer's morning chores.", "word": "chore"}
+{"idx": 420, "label": 0, "sentence1": "celaps the myusic stand.", "sentence2": "The school system is collapsing.", "word": "collapse"}
+{"idx": 421, "label": 1, "sentence1": "I woke up in the midil of the night.", "sentence2": "A whole is that which has beginning, middle, and end -- Aristotle.", "word": "middle"}
+{"idx": 422, "label": 0, "sentence1": "The levil of aktivity diclins vit age.", "sentence2": "His sphere of activity.", "word": "activity"}
+{"idx": 423, "label": 0, "sentence1": "Be cerfal crossing the street.", "sentence2": "The whole street protested the absence of lights.", "word": "street"}
+{"idx": 424, "label": 0, "sentence1": "The campyuter had a desctop footprint of 10 by 16 inches.", "sentence2": "The footprints of an earlier civilization.", "word": "footprint"}
+{"idx": 425, "label": 0, "sentence1": "berdz of prai oftn seize smaul mammals.", "sentence2": "The invaders seized the land and property of the inhabitants.", "word": "seize"}
+{"idx": 426, "label": 0, "sentence1": "A profession of disagreement.", "sentence2": "My father was a barrister by profession.", "word": "profession"}
+{"idx": 427, "label": 0, "sentence1": "A growth of hair.", "sentence2": "The growth of culture.", "word": "growth"}
+{"idx": 428, "label": 0, "sentence1": "These delacot plants do not transplant easily.", "sentence2": "Transplant the young rice plants.", "word": "transplant"}
+{"idx": 429, "label": 1, "sentence1": "She's a demon at math.", "sentence2": "He worked like a demon to finish the job on time.", "word": "demon"}
+{"idx": 430, "label": 1, "sentence1": "His thinking was in the americon mainstream.", "sentence2": "His ideas were well outside the mainstream, but he presented them intelligently, and we were impressed if not convinced.", "word": "mainstream"}
+{"idx": 431, "label": 1, "sentence1": "He put an ice pack on the ingeri as a precaution.", "sentence2": "To take precautions against risks of accident.", "word": "precaution"}
+{"idx": 432, "label": 0, "sentence1": "ther was no meeting of minds.", "sentence2": "The meeting elected a chairperson.", "word": "meeting"}
+{"idx": 433, "label": 0, "sentence1": "Take a rit at the corner.", "sentence2": "Film rights.", "word": "right"}
+{"idx": 434, "label": 0, "sentence1": "People do theat sawrt of thyng every day, withowt evur stapeng to raflect on the consequences.", "sentence2": "The teacher's ability reflects well on the school.", "word": "reflect"}
+{"idx": 435, "label": 0, "sentence1": "sabmerg ior head completely.", "sentence2": "The submarine submerged in the water.", "word": "submerge"}
+{"idx": 436, "label": 0, "sentence1": "sergens must scrob prior to an operation.", "sentence2": "She scrubbed his back.", "word": "scrub"}
+{"idx": 437, "label": 1, "sentence1": "I pramas you my best effort.", "sentence2": "I promised somebody my time.", "word": "promise"}
+{"idx": 438, "label": 1, "sentence1": "A mecanisem of soshel control.", "sentence2": "Mechanisms of communication.", "word": "mechanism"}
+{"idx": 439, "label": 0, "sentence1": "andoo the shoelace.", "sentence2": "A single mistake undid the President and he had to resign.", "word": "undo"}
+{"idx": 440, "label": 1, "sentence1": "She led a low spade.", "sentence2": "Spades were trumps.", "word": "spade"}
+{"idx": 441, "label": 0, "sentence1": "He trid to cklir his hed of the wiski fuzz.", "sentence2": "Peach fuzz.", "word": "fuzz"}
+{"idx": 442, "label": 1, "sentence1": "In a verld var fananshal probeti may not be widespread.", "sentence2": "He enjoys an exaggerated reputation for probity.", "word": "probity"}
+{"idx": 443, "label": 1, "sentence1": "The senoter reos to rejister his protest.", "sentence2": "They finished the game under protest to the league president.", "word": "protest"}
+{"idx": 444, "label": 1, "sentence1": "To shock rye.", "sentence2": "Shock grain.", "word": "shock"}
+{"idx": 445, "label": 1, "sentence1": "sin an intersection.", "sentence2": "This road has been signed.", "word": "sign"}
+{"idx": 446, "label": 0, "sentence1": "The embodiment of hope.", "sentence2": "A circle was the embodiment of his concept of life.", "word": "embodiment"}
+{"idx": 447, "label": 0, "sentence1": "He leivd in exile.", "sentence2": "She lived as an exile.", "word": "exile"}
+{"idx": 448, "label": 0, "sentence1": "frum the windo he kood ckach a gllimps of the lake.", "sentence2": "He caught only a glimpse of the professor's meaning.", "word": "glimpse"}
+{"idx": 449, "label": 1, "sentence1": "The abatement of a nuisance is the suppression thereof.", "sentence2": "Laws enforcing noise abatement.", "word": "abatement"}
+{"idx": 450, "label": 1, "sentence1": "thay are nyring the coast.", "sentence2": "The ship nears the land.", "word": "near"}
+{"idx": 451, "label": 0, "sentence1": "She wanted to aim a pun.", "sentence2": "He aimed his fists towards his opponent's face.", "word": "aim"}
+{"idx": 452, "label": 0, "sentence1": "It was not vot it opird to be on the surface.", "sentence2": "The cloth had a pattern of red dots on a white surface.", "word": "surface"}
+{"idx": 453, "label": 1, "sentence1": "Boot your computer.", "sentence2": "When arriving at the office, first thing I do is booting my machine.", "word": "boot"}
+{"idx": 454, "label": 0, "sentence1": "He had the gem set in a rin for his wife.", "sentence2": "She's an absolute gem.", "word": "gem"}
+{"idx": 455, "label": 0, "sentence1": "There's no help for it.", "sentence2": "I need some help with my homework.", "word": "help"}
+{"idx": 456, "label": 0, "sentence1": "He maed his marning tolot and vant to breakfast.", "sentence2": "Pensions are in the toilet.", "word": "toilet"}
+{"idx": 457, "label": 0, "sentence1": "qil the engine.", "sentence2": "He killed the ball.", "word": "kill"}
+{"idx": 458, "label": 1, "sentence1": "Had unusual longebati in the company.", "sentence2": "Her longevity as a star.", "word": "longevity"}
+{"idx": 459, "label": 0, "sentence1": "Remove a wrapper.", "sentence2": "The President removed many postmasters.", "word": "remove"}
+{"idx": 460, "label": 0, "sentence1": "He welded tagether some peesas of strip.", "sentence2": "She did a strip right in front of everyone.", "word": "strip"}
+{"idx": 461, "label": 0, "sentence1": "A fawrs out was racordad on the scorecard.", "sentence2": "A public force is necessary to give security to the rights of citizens.", "word": "force"}
+{"idx": 462, "label": 1, "sentence1": "His manipalatan of his frendz was scandalous.", "sentence2": "He found that the new manager was known for his Machiavellian manipulations in his last two positions.", "word": "manipulation"}
+{"idx": 463, "label": 1, "sentence1": "mowst of the wurcs by Fr\u00e9d\u00e9ric Chopin are for the piano.", "sentence2": "He can play \"Happy Birthday\" on the piano.", "word": "piano"}
+{"idx": 464, "label": 1, "sentence1": "thei orgonisd a rescu operation.", "sentence2": "Consolidate the companies various operations.", "word": "operation"}
+{"idx": 465, "label": 1, "sentence1": "Preserve the peace in the family.", "sentence2": "To preserve silence.", "word": "preserve"}
+{"idx": 466, "label": 1, "sentence1": "thys proves biond peradventure tat he is innocent.", "sentence2": "Proved beyond peradventure. -- South.", "word": "peradventure"}
+{"idx": 467, "label": 0, "sentence1": "The restorant had an oper kllas patronage.", "sentence2": "Even before noon there was a considerable patronage.", "word": "patronage"}
+{"idx": 468, "label": 0, "sentence1": "sercelat a rumor.", "sentence2": "This letter is being circulated among the faculty.", "word": "circulate"}
+{"idx": 469, "label": 0, "sentence1": "The senoters yusd theer muscle to get the porty lder to resign.", "sentence2": "Muscle consists largely of actin and myosin filaments.", "word": "muscle"}
+{"idx": 470, "label": 0, "sentence1": "derect yor anggor tewords others, not towords yourself.", "sentence2": "He directed all his energies into his dissertation.", "word": "direct"}
+{"idx": 471, "label": 1, "sentence1": "Plant bugs in the dissident's apartment.", "sentence2": "Plant a spy in Moscow.", "word": "plant"}
+{"idx": 472, "label": 1, "sentence1": "The kanclusan of the pis treaty.", "sentence2": "The conclusion of a business deal.", "word": "conclusion"}
+{"idx": 473, "label": 0, "sentence1": "The infielder's sneap and thro was a singgal motion.", "sentence2": "Children can manage snaps better than buttons.", "word": "snap"}
+{"idx": 474, "label": 0, "sentence1": "He yusd terer to mek theem confess.", "sentence2": "He was the terror of the neighborhood.", "word": "terror"}
+{"idx": 475, "label": 1, "sentence1": "pinirs had to cras the continent on foot.", "sentence2": "There are seven continents.", "word": "continent"}
+{"idx": 476, "label": 0, "sentence1": "We did not onderstand his motivation.", "sentence2": "His motivation was at a high level.", "word": "motivation"}
+{"idx": 477, "label": 0, "sentence1": "In the old daes a paleasman walked a biet and knew all his pipel by name.", "sentence2": "A beat of the heart.", "word": "beat"}
+{"idx": 478, "label": 0, "sentence1": "The katch was onle 10 fish.", "sentence2": "He shared his catch with the others.", "word": "catch"}
+{"idx": 479, "label": 0, "sentence1": "powst a uorning at the dump.", "sentence2": "The newspaper posted him in Timbuktu.", "word": "post"}
+{"idx": 480, "label": 0, "sentence1": "He worships the olmeiti dollar.", "sentence2": "The dollar coin has never been popular in the United States.", "word": "dollar"}
+{"idx": 481, "label": 1, "sentence1": "He beet his brect in anger.", "sentence2": "The robin has a red breast.", "word": "breast"}
+{"idx": 482, "label": 0, "sentence1": "thes sal not relieve iter partey of any obligations.", "sentence2": "The thief relieved me of $100.", "word": "relieve"}
+{"idx": 483, "label": 0, "sentence1": "conserv ior enerjy for the usent to the summit.", "sentence2": "Mom always conserved the strawberries we grew in the backyard.", "word": "conserve"}
+{"idx": 484, "label": 0, "sentence1": "tha regretted the clloser of the day cer center.", "sentence2": "He needed to grieve before he could achieve a sense of closure.", "word": "closure"}
+{"idx": 485, "label": 0, "sentence1": "ingrev a letter.", "sentence2": "Engrave a pen.", "word": "engrave"}
+{"idx": 486, "label": 0, "sentence1": "The runerz emergd froum the tris into his cklir vision.", "sentence2": "He had a vision of the Virgin Mary.", "word": "vision"}
+{"idx": 487, "label": 0, "sentence1": "All theat boin and scraiping did not impress him.", "sentence2": "They collected blood scrapings for analysis.", "word": "scraping"}
+{"idx": 488, "label": 1, "sentence1": "I ud lik to thanck the bruthor who juct spoke.", "sentence2": "None of his brothers would betray him.", "word": "brother"}
+{"idx": 489, "label": 0, "sentence1": "Let's not witwot the cryms of Stalin.", "sentence2": "In his sermon, the minister didn't try to whitewash over the sins of his church.", "word": "whitewash"}
+{"idx": 490, "label": 0, "sentence1": "A deal of trouble.", "sentence2": "He made a deal with the devil.", "word": "deal"}
+{"idx": 491, "label": 0, "sentence1": "childron must divelp a senns of rit and wrong.", "sentence2": "We have developed a new theory of evolution.", "word": "develop"}
+{"idx": 492, "label": 1, "sentence1": "She twerld the neif through her fingers vith impressiv dexterity.", "sentence2": "Playing computer games can improve your manual dexterity.", "word": "dexterity"}
+{"idx": 493, "label": 1, "sentence1": "Here's a good patluk of beans and stew.", "sentence2": "Having arrived unannounced we had to take potluck.", "word": "potluck"}
+{"idx": 494, "label": 0, "sentence1": "It was an apology for a meal.", "sentence2": "The Apology of Socrates.", "word": "apology"}
+{"idx": 495, "label": 1, "sentence1": "A stragl of followers.", "sentence2": "A straggle of outbuildings.", "word": "straggle"}
+{"idx": 496, "label": 0, "sentence1": "The ners gav him a flu shot.", "sentence2": "He tried to get unposed shots of his friends.", "word": "shot"}
+{"idx": 497, "label": 1, "sentence1": "To kemand an army or a ship.", "sentence2": "Command the military forces.", "word": "command"}
+{"idx": 498, "label": 1, "sentence1": "pliz refrijerat ior uncooked mits at or billo 40 Fahrenheit.", "sentence2": "Refrigerate this medicine.", "word": "refrigerate"}
+{"idx": 499, "label": 0, "sentence1": "He handold the bas with care.", "sentence2": "Care should be taken when holding babies.", "word": "care"}
+{"idx": 500, "label": 0, "sentence1": "Don't twist my words.", "sentence2": "Twist the dough into a braid.", "word": "twist"}
+{"idx": 501, "label": 0, "sentence1": "A pllas seteng of sterlling flatware.", "sentence2": "He changed the setting on the thermostat.", "word": "setting"}
+{"idx": 502, "label": 1, "sentence1": "The infecshen spread.", "sentence2": "Optimism spread among the population.", "word": "spread"}
+{"idx": 503, "label": 1, "sentence1": "We sleep phiv peapal in eech room.", "sentence2": "This tent sleeps six people.", "word": "sleep"}
+{"idx": 504, "label": 0, "sentence1": "tey vir restrained by a proebishan in ter charter.", "sentence2": "In 1920 the 18th amendment to the Constitution established prohibition in the US.", "word": "prohibition"}
+{"idx": 505, "label": 1, "sentence1": "Wear gloves so ior haneds stey warm.", "sentence2": "Stay with me, please.", "word": "stay"}
+{"idx": 506, "label": 0, "sentence1": "His treatmant of the race kweschen is badlie biased.", "sentence2": "His treatment of space borrows from Italian architecture.", "word": "treatment"}
+{"idx": 507, "label": 0, "sentence1": "mek a break for it.", "sentence2": "He finally got his big break.", "word": "break"}
+{"idx": 508, "label": 0, "sentence1": "Real life.", "sentence2": "It was a heavy play and the actors tried in vain to give life to it.", "word": "life"}
+{"idx": 509, "label": 1, "sentence1": "uat a minute, I'm not reedi yet!", "sentence2": "It only takes a minute.", "word": "minute"}
+{"idx": 510, "label": 1, "sentence1": "ther was an art ecsebishan on in the taun hall.", "sentence2": "A boat exhibition.", "word": "exhibition"}
+{"idx": 511, "label": 0, "sentence1": "The anhapy couple got into a terabel scrap.", "sentence2": "That car isn't good for anything but scrap.", "word": "scrap"}
+{"idx": 512, "label": 1, "sentence1": "Hooligans destroy unprovoked.", "sentence2": "The fire destroyed the house.", "word": "destroy"}
+{"idx": 513, "label": 0, "sentence1": "cleet running schus for better traction.", "sentence2": "Cleat a line.", "word": "cleat"}
+{"idx": 514, "label": 0, "sentence1": "Pinnacle a pediment.", "sentence2": "He did not want to be pinnacled.", "word": "pinnacle"}
+{"idx": 515, "label": 0, "sentence1": "The world's heritage of knowledge.", "sentence2": "A heritage of freedom.", "word": "heritage"}
+{"idx": 516, "label": 0, "sentence1": "ual in self-pity.", "sentence2": "She wailed with pain.", "word": "wail"}
+{"idx": 517, "label": 1, "sentence1": "ivin the pichr doesn't nou woer his knuckleball is going.", "sentence2": "Boston Red Sox pitcher Tim Wakefield is best known for his use of the knuckleball.", "word": "knuckleball"}
+{"idx": 518, "label": 1, "sentence1": "I am rideng a good buq on economics.", "sentence2": "He was frustrated because he couldn't find anything about dinosaurs in the book.", "word": "book"}
+{"idx": 519, "label": 1, "sentence1": "The roal of a ball.", "sentence2": "Look at the roll of the waves.", "word": "roll"}
+{"idx": 520, "label": 0, "sentence1": "The children akted out a comic pis to amuse the guests.", "sentence2": "He sacrificed a piece to get a strategic advantage.", "word": "piece"}
+{"idx": 521, "label": 1, "sentence1": "Our childrn ser a luv of music.", "sentence2": "The two countries share a long border.", "word": "share"}
+{"idx": 522, "label": 1, "sentence1": "He saut rilis froum his bondage to Satan.", "sentence2": "A self freed from the bondage of time.", "word": "bondage"}
+{"idx": 523, "label": 0, "sentence1": "To pierce a mystery.", "sentence2": "The path pierced the jungle.", "word": "pierce"}
+{"idx": 524, "label": 0, "sentence1": "In britun tha call a bobby pin a grip.", "sentence2": "They kept a firm grip on the two top priorities.", "word": "grip"}
+{"idx": 525, "label": 0, "sentence1": "giomatri is the mathematical sians of shape.", "sentence2": "He could barely make out their shapes.", "word": "shape"}
+{"idx": 526, "label": 0, "sentence1": "I could jusst mek out her face in the twilight.", "sentence2": "He loved the twilight.", "word": "twilight"}
+{"idx": 527, "label": 1, "sentence1": "shuger ior tea.", "sentence2": "John heavily sugars his coffee.", "word": "sugar"}
+{"idx": 528, "label": 0, "sentence1": "My naiber was the lead reol in lact year's village play.", "sentence2": "Play its role.", "word": "role"}
+{"idx": 529, "label": 1, "sentence1": "We must not proliferayt nuclyer arms.", "sentence2": "The flowers proliferated rapidly all spring.", "word": "proliferate"}
+{"idx": 530, "label": 1, "sentence1": "A pedestrian was abal to terip the burglar as he was runing away.", "sentence2": "The questions on the test tripped him up.", "word": "trip"}
+{"idx": 531, "label": 0, "sentence1": "cloyster the garden.", "sentence2": "She cloistered herself in the office.", "word": "cloister"}
+{"idx": 532, "label": 1, "sentence1": "I icspect to raseev wages.", "sentence2": "We were expecting a visit from our relatives.", "word": "expect"}
+{"idx": 533, "label": 0, "sentence1": "rok fracter and rock flowage are difernt types of geological deformation.", "sentence2": "Many campsites were located near the flowage.", "word": "flowage"}
+{"idx": 534, "label": 0, "sentence1": "We must fallo klosly the ecanomik divelepmant is Cuba.", "sentence2": "It follows that your assertion is false.", "word": "follow"}
+{"idx": 535, "label": 1, "sentence1": "He is a man of property.", "sentence2": "That hat is my property.", "word": "property"}
+{"idx": 536, "label": 0, "sentence1": "He nu tat it was trach day, uen the garbage celecters mhad all the noise.", "sentence2": "They heard indistinct noises of people talking.", "word": "noise"}
+{"idx": 537, "label": 0, "sentence1": "You shood hab red the small prynt on your policy.", "sentence2": "It was a policy of retribution.", "word": "policy"}
+{"idx": 538, "label": 1, "sentence1": "A sipar pull.", "sentence2": "He grabbed the pull and opened the drawer.", "word": "pull"}
+{"idx": 539, "label": 1, "sentence1": "It is none of uor affair.", "sentence2": "He used a hook-shaped affair with a long handle to unlock the car.", "word": "affair"}
+{"idx": 540, "label": 0, "sentence1": "He yusd presher to stop the bleeding.", "sentence2": "The sensitivity of his skin to pressure and temperature was normal.", "word": "pressure"}
+{"idx": 541, "label": 1, "sentence1": "The realote of his sichuaten slowly dawned on him.", "sentence2": "The reality of the crash scene on TV dawned upon him only when he saw the victim was no actor but his friend.", "word": "reality"}
+{"idx": 542, "label": 0, "sentence1": "The partey of the fersst part.", "sentence2": "He planned a party to celebrate Bastille Day.", "word": "party"}
+{"idx": 543, "label": 1, "sentence1": "risolt in tragedy.", "sentence2": "This measure will result in good or in evil.", "word": "result"}
+{"idx": 544, "label": 1, "sentence1": "Let's peg the rug to the floor.", "sentence2": "Peg a tent.", "word": "peg"}
+{"idx": 545, "label": 1, "sentence1": "The natsi assumption of pouer in 1934.", "sentence2": "He acquired all the company's assets for ten million dollars and the assumption of the company's debts.", "word": "assumption"}
+{"idx": 546, "label": 1, "sentence1": "A feit broke out at the hockey game.", "sentence2": "There were fights in the streets.", "word": "fight"}
+{"idx": 547, "label": 0, "sentence1": "huq the ball.", "sentence2": "His opponent hooked him badly.", "word": "hook"}
+{"idx": 548, "label": 0, "sentence1": "Flood the marcat ith tenos shoes.", "sentence2": "The swollen river flooded the village.", "word": "flood"}
+{"idx": 549, "label": 0, "sentence1": "He has a kien intellect.", "sentence2": "Some of the world's leading intellects were meeting there.", "word": "intellect"}
+{"idx": 550, "label": 1, "sentence1": "We had a wurd or two obowt it.", "sentence2": "There was then a long discussion of whether to capitalize words like \"east\".", "word": "word"}
+{"idx": 551, "label": 0, "sentence1": "The rewm was simplli deceratod ith grait restraint.", "sentence2": "The car did not have proper restraints fitted.", "word": "restraint"}
+{"idx": 552, "label": 0, "sentence1": "It's my go.", "sentence2": "I'll give it a go.", "word": "go"}
+{"idx": 553, "label": 0, "sentence1": "To crush grapes.", "sentence2": "The car crushed the toy.", "word": "crush"}
+{"idx": 554, "label": 1, "sentence1": "To cushion a blow.", "sentence2": "Cushion the blow.", "word": "cushion"}
+{"idx": 555, "label": 0, "sentence1": "hienas scavenge.", "sentence2": "She scavenged the garbage cans for food.", "word": "scavenge"}
+{"idx": 556, "label": 1, "sentence1": "For recriatan he reot poetry and solved kroswerd puzzles.", "sentence2": "Drug abuse is often regarded as a form of recreation.", "word": "recreation"}
+{"idx": 557, "label": 1, "sentence1": "His claim to the praperte has kum under question.", "sentence2": "He obeyed without question.", "word": "question"}
+{"idx": 558, "label": 0, "sentence1": "I swear by my grandmother's recipes.", "sentence2": "Before God I swear I am innocent.", "word": "swear"}
+{"idx": 559, "label": 1, "sentence1": "Gargle vith thes liquid.", "sentence2": "Every morning he gargled a little cheap Scotch.", "word": "gargle"}
+{"idx": 560, "label": 0, "sentence1": "Heel a golf ball.", "sentence2": "Heel that dance.", "word": "heel"}
+{"idx": 561, "label": 0, "sentence1": "Don't fuss too mouch over the grancildran -- thay are kwit big now.", "sentence2": "She fusses over her husband.", "word": "fuss"}
+{"idx": 562, "label": 0, "sentence1": "He was driving his car lik a nut.", "sentence2": "I kicked him in the nuts.", "word": "nut"}
+{"idx": 563, "label": 1, "sentence1": "He was indetid to the pioneering verk of John Dewey.", "sentence2": "The work of an active imagination.", "word": "work"}
+{"idx": 564, "label": 1, "sentence1": "A kien musicol sense.", "sentence2": "A good sense of timing.", "word": "sense"}
+{"idx": 565, "label": 1, "sentence1": "It was his last wish.", "sentence2": "They should respect the wishes of the people.", "word": "wish"}
+{"idx": 566, "label": 0, "sentence1": "The arliner had to land vith a nose-up attud aphter the incident.", "sentence2": "The actor struck just the right attitude.", "word": "attitude"}
+{"idx": 567, "label": 0, "sentence1": "Just steam the vegetables.", "sentence2": "Her indifference to his amorous advances really steamed the young man.", "word": "steam"}
+{"idx": 568, "label": 0, "sentence1": "The disipashen of the mist.", "sentence2": "Mindless dissipation of natural resources.", "word": "dissipation"}
+{"idx": 569, "label": 1, "sentence1": "The patth of virtue.", "sentence2": "Our paths in life led us apart.", "word": "path"}
+{"idx": 570, "label": 0, "sentence1": "wene ingglond difetad pakestan it ended a ten-year drought.", "sentence2": "Farmers most affected by the drought hope that there may yet be sufficient rain early in the growing season.", "word": "drought"}
+{"idx": 571, "label": 1, "sentence1": "It's your move! Roll the dice!", "sentence2": "If you roll a six, you can make two moves.", "word": "move"}
+{"idx": 572, "label": 1, "sentence1": "He is an ofaser of the court.", "sentence2": "The club elected its officers for the coming year.", "word": "officer"}
+{"idx": 573, "label": 1, "sentence1": "He sined the deed.", "sentence2": "I inherited the deed to the house.", "word": "deed"}
+{"idx": 574, "label": 0, "sentence1": "The trancfer of the myusic frum rekord to tap seprest mouch of the background noise.", "sentence2": "The best student was a transfer from LSU.", "word": "transfer"}
+{"idx": 575, "label": 1, "sentence1": "groing fateag was aperant frum the diklin in the execution of their athletic skills.", "sentence2": "He was hospitalized for extreme fatigue.", "word": "fatigue"}
+{"idx": 576, "label": 0, "sentence1": "Belabor the obvious.", "sentence2": "She was belabored by her fellow students.", "word": "belabor"}
+{"idx": 577, "label": 1, "sentence1": "The howsis were svept away in the torrent.", "sentence2": "They endured a torrent of inquiries.", "word": "torrent"}
+{"idx": 578, "label": 1, "sentence1": "The simfeni was hailed as an ingeanas work.", "sentence2": "Erosion is the work of wind or water over time.", "word": "work"}
+{"idx": 579, "label": 1, "sentence1": "caneda is a mamber of the United Nations.", "sentence2": "The library was a member of the interlibrary loan association.", "word": "member"}
+{"idx": 580, "label": 0, "sentence1": "tey askt for a 10% righs in rates.", "sentence2": "The rising of the Holy Ghost.", "word": "rise"}
+{"idx": 581, "label": 0, "sentence1": "teritorial disputes were resolved in Guatemala's rekagnishan of beles in 1991.", "sentence2": "The partners were delighted with the recognition of their work.", "word": "recognition"}
+{"idx": 582, "label": 1, "sentence1": "The fibers decussate.", "sentence2": "This nerve decussates the other.", "word": "decussate"}
+{"idx": 583, "label": 1, "sentence1": "A succession of failures.", "sentence2": "A succession of stalls offering soft drinks.", "word": "succession"}
+{"idx": 584, "label": 1, "sentence1": "How did yor interbu go?", "sentence2": "She was going that way anyway, so she offered to show him where it was.", "word": "go"}
+{"idx": 585, "label": 0, "sentence1": "The campain put a faverebal spen on the story.", "sentence2": "The skaters demonstrated their spins.", "word": "spin"}
+{"idx": 586, "label": 0, "sentence1": "The badi of the car was badlli rusted.", "sentence2": "Administrative body.", "word": "body"}
+{"idx": 587, "label": 1, "sentence1": "She servd a creamy sort of disurt thing.", "sentence2": "She wore a sort of magenta dress.", "word": "sort"}
+{"idx": 588, "label": 1, "sentence1": "I luv frentch food.", "sentence2": "I loved to write.", "word": "love"}
+{"idx": 589, "label": 1, "sentence1": "He vant froum grunt to chermen in six years.", "sentence2": "Infantrymen in Vietnam were called grunts.", "word": "grunt"}
+{"idx": 590, "label": 0, "sentence1": "You can krasch here, theau it's not veri comfortable.", "sentence2": "The terrorists crashed the plane into the palace.", "word": "crash"}
+{"idx": 591, "label": 0, "sentence1": "cryat a poem.", "sentence2": "Create one a peer.", "word": "create"}
+{"idx": 592, "label": 1, "sentence1": "verldvid in distribution.", "sentence2": "The distribution of nerve fibers.", "word": "distribution"}
+{"idx": 593, "label": 1, "sentence1": "The nioclasical canon.", "sentence2": "Canons of polite society.", "word": "canon"}
+{"idx": 594, "label": 0, "sentence1": "She yusd to wait doun at the Dew drrap Inn.", "sentence2": "Wait here until your car arrives.", "word": "wait"}
+{"idx": 595, "label": 0, "sentence1": "svit to a difernt brand of beer.", "sentence2": "I want to switch this red dress for a green one.", "word": "switch"}
+{"idx": 596, "label": 1, "sentence1": "A mince of mushrooms.", "sentence2": "Mince tastes really good fried in a pan with some chopped onion and tomato.", "word": "mince"}
+{"idx": 597, "label": 1, "sentence1": "On entaring a hoast cell, a vyras wyl stort to replicate.", "sentence2": "Replicate the cell.", "word": "replicate"}
+{"idx": 598, "label": 1, "sentence1": "A scho of impatience.", "sentence2": "A good show of looking interested.", "word": "show"}
+{"idx": 599, "label": 0, "sentence1": "Map the genes.", "sentence2": "Map the surface of Venus.", "word": "map"}
+{"idx": 600, "label": 0, "sentence1": "plees bracket tys remark.", "sentence2": "Bracket bookshelves.", "word": "bracket"}
+{"idx": 601, "label": 1, "sentence1": "I aplod ior efforts.", "sentence2": "Although we don't like your methods, we applaud your motives.", "word": "applaud"}
+{"idx": 602, "label": 1, "sentence1": "A plume of smoke.", "sentence2": "Grass with large plumes.", "word": "plume"}
+{"idx": 603, "label": 1, "sentence1": "'Smog' is a bleend of 'smoke' and 'fog'.", "sentence2": "Their music has been described as a blend of jazz and heavy metal.", "word": "blend"}
+{"idx": 604, "label": 0, "sentence1": "He was a bule of a man.", "sentence2": "He made a bad bull of the assignment.", "word": "bull"}
+{"idx": 605, "label": 1, "sentence1": "spand money.", "sentence2": "He spends far more on gambling than he does on living proper.", "word": "spend"}
+{"idx": 606, "label": 1, "sentence1": "ingglish usage.", "sentence2": "A usage borrowed from French.", "word": "usage"}
+{"idx": 607, "label": 0, "sentence1": "He gav a spiech as part of his instalashan inntu the whol of fame.", "sentence2": "The telephone installation took only a few minutes.", "word": "installation"}
+{"idx": 608, "label": 0, "sentence1": "The locks pound the wotar of the canal.", "sentence2": "Pound the roots with a heavy flat stone.", "word": "pound"}
+{"idx": 609, "label": 1, "sentence1": "donayt moni to the orphanage.", "sentence2": "I donated blood to the Red Cross for the victims of the earthquake.", "word": "donate"}
+{"idx": 610, "label": 1, "sentence1": "Hew out a patth in the rock.", "sentence2": "One of the most widely used typefaces in the world was hewn by the English printer and typographer John Baskerville.", "word": "hew"}
+{"idx": 611, "label": 0, "sentence1": "gugol reprisents a new brrid of entrepreneurs.", "sentence2": "A breed of tulip.", "word": "breed"}
+{"idx": 612, "label": 1, "sentence1": "I can not risk smoking.", "sentence2": "Why risk your life?", "word": "risk"}
+{"idx": 613, "label": 1, "sentence1": "woen doas the court of law sit?", "sentence2": "In what city is the circuit court sitting for this session.", "word": "sit"}
+{"idx": 614, "label": 1, "sentence1": "Let's reevu your situation.", "sentence2": "Before I tackle the question directly, I must briefly review historical approaches to the problem.", "word": "review"}
+{"idx": 615, "label": 1, "sentence1": "He's a truq jockey.", "sentence2": "A disc jockey.", "word": "jockey"}
+{"idx": 616, "label": 1, "sentence1": "The hol badi fyld out of the auditorium.", "sentence2": "The student body.", "word": "body"}
+{"idx": 617, "label": 1, "sentence1": "The cuntre wyl stabalis aftor the next election ends.", "sentence2": "The economy stabilized.", "word": "stabilize"}
+{"idx": 618, "label": 1, "sentence1": "A goud lede for a job.", "sentence2": "Joe is a great addition to our sales team, he has numerous leads in the paper industry.", "word": "lead"}
+{"idx": 619, "label": 0, "sentence1": "He told the pantter that he wonted a uelo base vith juct a hynt of green.", "sentence2": "Bases include oxides and hydroxides of metals and ammonia.", "word": "base"}
+{"idx": 620, "label": 0, "sentence1": "jubanal offenses oftan reflect an inadicwasy in the parents.", "sentence2": "The inadequacy of unemployment benefits.", "word": "inadequacy"}
+{"idx": 621, "label": 1, "sentence1": "The power plant received a new upgrade.", "sentence2": "With my phone company, I get a free upgrade every twelve months if I keep topping up 10 pounds a month.", "word": "upgrade"}
+{"idx": 622, "label": 0, "sentence1": "The senoter raseevd suvir kritisisam froum his opponent.", "sentence2": "The politician received a lot of public criticism for his controversial stance on the issue.", "word": "criticism"}
+{"idx": 623, "label": 1, "sentence1": "The lact baschen of communism.", "sentence2": "A bastion against corruption.", "word": "bastion"}
+{"idx": 624, "label": 0, "sentence1": "It's a pitti he couldn't do it.", "sentence2": "The blind are too often objects of pity.", "word": "pity"}
+{"idx": 625, "label": 1, "sentence1": "To embellish a story, the truth.", "sentence2": "The old book cover was embellished with golden letters.", "word": "embellish"}
+{"idx": 626, "label": 0, "sentence1": "The court's tilt taward conservative rulings.", "sentence2": "The tower had a pronounced tilt.", "word": "tilt"}
+{"idx": 627, "label": 0, "sentence1": "The osembli plant is an inormas facility.", "sentence2": "Educational facilities.", "word": "facility"}
+{"idx": 628, "label": 0, "sentence1": "We liv an owor froum the airport.", "sentence2": "It was their finest hour.", "word": "hour"}
+{"idx": 629, "label": 1, "sentence1": "The droug capital of Columbia.", "sentence2": "The crime capital of Italy.", "word": "capital"}
+{"idx": 630, "label": 0, "sentence1": "clintan derectod his fyer at the ripublican Party.", "sentence2": "There was a fire at the school last night and the whole place burned down.", "word": "fire"}
+{"idx": 631, "label": 1, "sentence1": "In evere war ther are actts of torture theat kes the world to shudder.", "sentence2": "Using large dogs to attack bound, hand-cuffed prisoners is clearly torture.", "word": "torture"}
+{"idx": 632, "label": 0, "sentence1": "The outward pasag took 10 days.", "sentence2": "She struggled to play the difficult passages.", "word": "passage"}
+{"idx": 633, "label": 0, "sentence1": "reiz to the occasion.", "sentence2": "Her spirits rose when she heard the good news.", "word": "rise"}
+{"idx": 634, "label": 0, "sentence1": "Chisel the marble.", "sentence2": "Who's chiseling on the side?", "word": "chisel"}
+{"idx": 635, "label": 1, "sentence1": "The bane of my existence.", "sentence2": "The bane of my life.", "word": "bane"}
+{"idx": 636, "label": 1, "sentence1": "Let's hang thys cute anamol in the nursery.", "sentence2": "Hang wallpaper.", "word": "hang"}
+{"idx": 637, "label": 1, "sentence1": "He icsperamentad on a perticaler brrid of wyt rats.", "sentence2": "A breed of animal.", "word": "breed"}
