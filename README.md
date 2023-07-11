@@ -7,7 +7,7 @@ In an attempt to phonetically spell such words, we also see an influence of thei
 Absence of certain phonemes, or overloading to the same grapheme in the native language results in phonetic confusions when speaking words in a second language.
 This phonetic confusion also shows up in misspellings.
 
-FunGLUE contains such L1 inspired misspellings in L2 for 7 tasks in the <a href=”https://super.gluebenchmark.com/”>SuperGLUE benchmark</a>.
+FunGLUE contains such L1 inspired misspellings in L2 for 7 tasks in the <a href="https://super.gluebenchmark.com/">SuperGLUE benchmark</a>.
 
 More details about how the dataset is created can be found in our paper <a href="https://aclanthology.org/2023.acl-long.145/">Bi-Phone: Modeling Inter Language Phonetic Influences in Text</a>.
 
