@@ -1,7 +1,7 @@
 # FunGLUE
 
 FunGLUE is a Natural Language Understanding Benchmark containing native language (Hindi, Bengali, Tamil) inspired misspellings in a second language (English).
-Language asymmetries on the web forces people to use languages they have no formal education in.
+Language asymmetries on the web force people to use languages they have no formal education in.
 While people are familiar with words in such a second language, they are often unfamiliar with spellings.
 In an attempt to phonetically spell such words, we also see an influence of their native languages.
 Absence of certain phonemes, or overloading to the same grapheme in the native language results in phonetic confusions when speaking words in a second language.
